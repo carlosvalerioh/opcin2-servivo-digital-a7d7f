@@ -16,7 +16,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: /images/fold-no-1-e1620752205974-619x630.jpeg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
