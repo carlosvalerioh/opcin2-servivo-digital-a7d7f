@@ -13,7 +13,7 @@ sections:
       - label: CÓNTACTANOS
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: VER MÁS
         url: /features
         style: secondary
     image: /images/fold-no-1-e1620752205974-619x630.jpeg
