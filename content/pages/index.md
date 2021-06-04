@@ -10,7 +10,7 @@ sections:
 
       ](https://wa.me/+525619878301)
     actions:
-      - label: Try Free
+      - label: CÓNTACTANOS
         url: /pricing
         style: primary
       - label: Learn More
