@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Somos expertos en construcción de negocios digitales.
-    subtitle: Optional hero section subtitle
+    subtitle: Pkdf
     content: >
       Te acompañamos en el proceso de transformación digital con más de 10 años
       de experiencia creando tecnología y construyendo Negocios Digitales[
