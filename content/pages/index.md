@@ -4,9 +4,11 @@ sections:
   - type: hero_section
     title: Somos expertos en construcción de negocios digitales.
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Te acompañamos en el proceso de transformación digital con más de 10 años
+      de experiencia creando tecnología y construyendo Negocios Digitales[
+
+      ](https://wa.me/+525619878301)
     actions:
       - label: Try Free
         url: /pricing
