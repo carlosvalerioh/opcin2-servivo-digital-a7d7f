@@ -10,7 +10,7 @@ sections:
 
       ](https://wa.me/+525619878301)
     actions:
-      - label: CÓNTACTANOS
+      - label: CONTÁCTANOS
         url: /pricing
         style: primary
       - label: VER MÁS
