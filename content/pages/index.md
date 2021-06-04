@@ -246,10 +246,11 @@ sections:
     background_color: secondary
   - type: cta_section
     title: ¿Listo para transformar el futuro con nosotros?
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Construyamos un negocio que genere impacto y hagamos con emprendimiento
+      una gran transformación en Latinoamérica.[
+
+      ](https://wa.me/+525619878301)
     actions:
       - label: Learn More
         url: /features
