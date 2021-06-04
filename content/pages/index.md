@@ -252,7 +252,7 @@ sections:
 
       ](https://wa.me/+525619878301)
     actions:
-      - label: Learn More
+      - label: Comienza hoy mismo
         url: /features
         style: secondary
     actions_position: right
