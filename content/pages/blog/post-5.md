@@ -67,7 +67,6 @@ Esto incluye lo que ofreces a tus clientes y la forma en la que realizas tu trab
 
 **Hazlo fácil **
 
-
 Ser digital es competir de manera diferente. ¿Cómo lo hacen las empresas innovadoras? La estrategia general que define la era digital es facilitar las cosas.
 
 La competencia digital tiene que ver con las conveniencia y la elección de los clientes, permitiéndoles elegir cómo y cuándo quieren hacer negocios contigo. Se trata de borrar pasos que no agreguen valor, reducir costos, mejorar la calidad o ahorrar tiempo. 
