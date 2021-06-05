@@ -16,7 +16,7 @@ excerpt: >-
   affecit, quanto.
 thumb_image: images/classic/post-5.png
 thumb_image_alt: Post 5 placeholder image
-image: images/classic/post-5.png
+image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 image_alt: Post 5 placeholder image
 image_position: right
 seo:
