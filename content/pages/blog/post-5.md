@@ -14,7 +14,7 @@ excerpt: >-
   Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
   philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
   affecit, quanto.
-thumb_image: images/classic/post-5.png
+thumb_image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 thumb_image_alt: Post 5 placeholder image
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 image_alt: Post 5 placeholder image
