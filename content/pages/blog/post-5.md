@@ -55,8 +55,6 @@ Se dice que a las únicas personas a quienes les gusta el cambio son los bebés.
 
 Los profesionales, equipos y empresas que aprenden a amar el cambio que son adictos a desafiar el statu quo, son los ganadores digitales. Debes exprimir hasta la última gota de capacidad todos los días, hasta que tú y tu organización sean excelentes. Luego lava, enjuaga y repite.
 
- 
-
 ¿Por qué? Porque lo digital no es ni la tecnología ni las redes sociales. Lo digital es competir de manera diferentes para aprovechar las nuevas experiencias de los clientes, las prácticas empresariales eficientes y los modelos comerciales innovadores, que se basan en la convergencia de una amplia gama de capacidades de tecnología e informática, como la computación en la nube, la colaboración social y móvil, la inteligencia artificial y el análisis predicción. Repito. Lo digital no es la tecnología. Se trata de competir de manera diferente.
 
 #### \*\*La velocidad importa. \*\*
