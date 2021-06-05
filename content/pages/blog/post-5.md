@@ -47,9 +47,15 @@ seo:
       relativeUrl: true
 layout: post
 ---
+**Ser digital** 
 
-Donec ultrices tincidunt arcu non sodales neque. Et netus et malesuada fames ac turpis egestas sed tempus. Cras pulvinar mattis nunc sed. Turpis cursus in hac habitasse platea dictumst quisque sagittis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Posuere ac ut consequat semper viverra nam. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Egestas sed sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci eu lobortis elementum nibh. Senectus et netus et malesuada fames ac turpis egestas integer. Id cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Sed nisi lacus sed viverra tellus. Non curabitur gravida arcu ac tortor dignissim convallis aenean.
 
-Sem et tortor consequat id porta. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Amet nulla facilisi morbi tempus. Blandit massa enim nec dui nunc mattis. Non enim praesent elementum facilisis leo vel fringilla est. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Eget nunc lobortis mattis aliquam faucibus purus. Volutpat ac tincidunt vitae semper quis. Cursus eget nunc scelerisque viverra mauris. Purus semper eget duis at tellus at urna. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Nunc non blandit massa enim nec. Ut porttitor leo a diam sollicitudin.
+Ser digital es cambiar y mejorar no solo a la organización, sino también a ti mismo. Ser digital se trata de velocidad y agilidad, no solo para tu cliente, sino en la forma en que todos realizan el trabajo y colaboran como organización. Para impulsar un cambio permanente y duradero, sé deliberado sobre los diferentes hábitos que tu equipo directo empiece a practicar como parte de esta misión. 
 
-Tincidunt tortor aliquam nulla facilisi cras. Id semper risus in hendrerit. Magna fermentum iaculis eu non. At consectetur lorem donec massa sapien faucibus et. Est placerat in egestas erat imperdiet sed euismod nisi porta. Lacus vel facilisis volutpat est velit egestas dui. Sapien pellentesque habitant morbi tristique senectus et. Ut tellus elementum sagittis vitae et. Et malesuada fames ac turpis. Volutpat commodo sed egestas egestas. Praesent tristique magna sit amet purus gravida quis. Turpis egestas pretium aenean pharetra.
+Se dice que a las únicas personas a quienes les gusta el cambio son los bebés. Pero un apetito por el cambio es lo que separa a los innovadores de los rezagados, los empresarios de los burócratas y los ganadores de los perdedores digitales. 
+
+Los profesionales, equipos y empresas que aprenden a amar el cambio que son adictos a desafiar el statu quo, son los ganadores digitales. Debes exprimir hasta la última gota de capacidad todos los días, hasta que tú y tu organización sean excelentes. Luego lava, enjuaga y repite.
+
+ 
+
+¿Por qué? Porque lo digital no es ni la tecnología ni las redes sociales. Lo digital es competir de manera diferentes para aprovechar las nuevas experiencias de los clientes, las prácticas empresariales eficientes y los modelos comerciales innovadores, que se basan en la convergencia de una amplia gama de capacidades de tecnología e informática, como la computación en la nube, la colaboración social y móvil, la inteligencia artificial y el análisis predicción. Repito. Lo digital no es la tecnología. Se trata de competir de manera diferente.
