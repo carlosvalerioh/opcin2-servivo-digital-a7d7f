@@ -65,7 +65,7 @@ En el papelito, es sencillo.  Digital es igual a velocidad y agilidad. La veloc
 
 Esto incluye lo que ofreces a tus clientes y la forma en la que realizas tu trabajo. Tanto dentro como fuera, necesitas cumplir y hacer las cosas en plazos más cortos, y debes ser capaz de adaptarte, reaccionar de manera más ágil, acortar los tiempos de los ciclos y mejorar los datos de la experiencia del cliente y de tus procesos.
 
-**Hazlo fácil **
+**\*\*Hazlo fácil \*\***
 
 Ser digital es competir de manera diferente. ¿Cómo lo hacen las empresas innovadoras? La estrategia general que define la era digital es facilitar las cosas.
 
