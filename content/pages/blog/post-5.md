@@ -59,7 +59,7 @@ Los profesionales, equipos y empresas que aprenden a amar el cambio que son adic
 
 ¿Por qué? Porque lo digital no es ni la tecnología ni las redes sociales. Lo digital es competir de manera diferentes para aprovechar las nuevas experiencias de los clientes, las prácticas empresariales eficientes y los modelos comerciales innovadores, que se basan en la convergencia de una amplia gama de capacidades de tecnología e informática, como la computación en la nube, la colaboración social y móvil, la inteligencia artificial y el análisis predicción. Repito. Lo digital no es la tecnología. Se trata de competir de manera diferente.
 
-**La velocidad importa. **
+La velocidad importa. 
 
 En el papelito, es sencillo.  Digital es igual a velocidad y agilidad. La velocidad es excelencia operativa. La agilidad es la capacidad de hacer que el cambio suceda. Para ganar en lo digital, haz que todo sea más rápido y más ágil. 
 
