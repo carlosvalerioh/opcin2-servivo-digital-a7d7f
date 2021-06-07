@@ -12,17 +12,20 @@ sections:
       - title: E-commerce
         subtitle: Crea t
         title_align: left
-        content: |-
-          ---
+        content: |+
+          ***
 
           ### $9
 
-          per month, billed yearly
+          Ecommerce listo para crecer 
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          *   #### Desarrollamos tu tienda en línea.
+          *   #### Multiplicamos tus ventas
+
+          <!---->
+
+          *   Analizamos lo que puedes hacer mejor 
+
         content_align: left
         actions:
           - label: Start with Personal
