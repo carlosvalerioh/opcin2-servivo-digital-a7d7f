@@ -79,7 +79,7 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Nosotros hemos construido ecommerce y casos de estudio de $0 hasta
+          “Nosotros hemos construido ecommerce casos de estudio de $0 hasta
           facturación de $403,656 dólares”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: /images/IMG_4710 2-carlos.jpg
