@@ -73,7 +73,7 @@ sections:
 
           ###
 
-          **Haz crecer tu negocio, el resto lo hacemos nosotros. **
+          **\*\*Haz crecer tu negocio, el resto lo hacemos nosotros. \*\***
 
           *   Estrategia SEO para posicionamiento en buscadores
           *   Estrategía de Marketing Digital
