@@ -64,7 +64,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Desarrollo Web
-        subtitle: Llevamos tu sitio web al siguiente nivel.
+        subtitle: 'Desarrolla tu negocio, el resto lo hacemos nosotros.'
         title_align: left
         content: |
           ***
