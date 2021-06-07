@@ -236,7 +236,7 @@ sections:
       - title: Gustav Purpleson
         subtitle: Co-Founder & CEO
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: /images/IMG_4710 2-carlos.jpg
         image_position: top
       - title: Dianne Ameter
         subtitle: Software Engineer
