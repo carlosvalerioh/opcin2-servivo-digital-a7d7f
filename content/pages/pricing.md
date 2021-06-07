@@ -17,7 +17,7 @@ sections:
 
           ### $9
 
-          Ecommerce listo para crecer
+          **Ecommerce listo para crecer**
 
           *   Desarrollamos tu tienda en línea.
           *   Multiplicamos tus ventas
