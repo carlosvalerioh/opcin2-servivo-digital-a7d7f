@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Comienza hoy mismo
-    subtitle: Optional hero section subtitle
+    subtitle: Lo que podemos hacer
     align: center
     padding_top: large
     padding_bottom: small
