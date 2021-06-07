@@ -243,7 +243,7 @@ sections:
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
-      - title: Hugh Saturation
+      - title: Juanjo Torres
         subtitle: Sales & Digital PR
         title_align: center
         image: /images/120729463_351384429642322_4099580936422457335_n.jpg
