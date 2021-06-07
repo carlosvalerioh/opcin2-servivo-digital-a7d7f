@@ -24,8 +24,8 @@ sections:
           *   Desarrollamos tu tienda en línea.
           *   Multiplicamos tus ventas
           *   Analizamos lo que puedes hacer mejor
-          *   Recibe pagos en línea y redes sociales en menos de una hora
-          *   Estrategia de Marketing Digital. 
+          *   Links de pagos personalizados.
+          *   Estrategia de Marketing Digital.
         content_align: left
         actions:
           - label: Comienza hoy mismo
