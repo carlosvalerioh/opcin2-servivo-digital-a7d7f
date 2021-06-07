@@ -46,7 +46,7 @@ sections:
 
 
           **Aprende lo que significa ser Digital y lleva tu negocio al siguiente
-          nivel. No lo hagas solo, hazlo con una comunidad.**
+          nivel.**
 
 
           *   Consultoría Digital.
