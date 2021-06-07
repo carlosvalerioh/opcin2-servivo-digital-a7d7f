@@ -81,7 +81,7 @@ sections:
       - title: >-
           “Hemos construido ecommerce de $0 hasta facturación de $500,000
           dólares”.
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'Sabrina Valerio, Sr. Design Manager at Company'
         image: /images/IMG_4710 2-carlos.jpg
         image_alt: Brandon Guidelines
         media_position: right
