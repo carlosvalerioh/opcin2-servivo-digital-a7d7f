@@ -79,8 +79,8 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Hemos construido ecommerce que facturan de $0 hasta $500,000
-          dólares”.
+          “Hemos construido ecommerce desde cero que facturan de $0 hasta
+          $500,000 dólares”.
         subtitle: "Sabrina Valerio,\_Operations Manager\_at Company"
         image: /images/32425386_124475878362076_3704449824406372352_n.jpg
         image_alt: Brandon Guidelines
