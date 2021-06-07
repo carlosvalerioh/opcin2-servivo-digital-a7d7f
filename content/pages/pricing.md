@@ -10,7 +10,9 @@ sections:
   - type: grid_section
     grid_items:
       - title: eCommerce
-        subtitle: Desarrollamos tu eCommerce. Recibe pagos en línea hoy mismo
+        subtitle: >-
+          Desarrollamos tu eCommerce. Recibe pagos en línea y redes sociales hoy
+          mismo
         title_align: left
         content: |
           ***
