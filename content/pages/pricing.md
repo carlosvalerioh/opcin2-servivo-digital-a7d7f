@@ -73,9 +73,12 @@ sections:
 
           ###
 
-          **Haz crecer tu negocio, el resto lo hacemos nosotros. **
+          **\*\*Haz crecer tu negocio, el resto lo hacemos nosotros. \*\***
 
-          *   Estrategia SEO para posicionamiento en buscadores
+          ****
+
+          *   Estrategia SEO para posicionamiento en buscadore.
+          *   Desarrollo a la medida o implementación SaaS.
           *   Estrategía de Marketing Digital
           *   Nisi cubilia interdum ultricies
           *   Feugiat porta tortor
