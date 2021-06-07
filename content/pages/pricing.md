@@ -45,11 +45,11 @@ sections:
 
           per month, billed yearly
 
-          *   Et semper leo mattis orci conubia congue
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
-          *   Fringilla diam magnis libero lacinia
-          *   Litora primis facilisis ullamcorper per
+          *   Cursos y formar parte de una comunidad de emprendedores.
+          *   Consultoría Digital. 
+          *   Workshops
+          *   Design Thinking
+          *   Estrategias de crecimiento para eCommerce
         content_align: left
         actions:
           - label: Comienza hoy mismo
