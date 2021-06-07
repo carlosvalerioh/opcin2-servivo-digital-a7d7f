@@ -25,7 +25,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Features Section
+    title: Lo que hacemos por ti
     subtitle: Features Section Example
     features:
       - title: Creación de estrategias y modelos de negocios digitales.
