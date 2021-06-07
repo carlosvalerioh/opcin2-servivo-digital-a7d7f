@@ -90,6 +90,7 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
+    title: 'Lo que podemos hacer por ti '
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
