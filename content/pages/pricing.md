@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: E-commerce
+      - title: eCommerce
         subtitle: E-commerce y pagos en línea para tu negocio.
         title_align: left
         content: |
