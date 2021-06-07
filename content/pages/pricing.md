@@ -34,9 +34,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Cursos / Capacitación
-        subtitle: >-
-          Descubre todo lo que te estás perdiendo por no ser Digital. Comienza
-          la Transformación Digital.
+        subtitle: Descubre todo lo que te estás perdiendo por no ser Digital.
         title_align: left
         content: >
           ***
