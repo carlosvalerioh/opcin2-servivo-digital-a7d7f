@@ -95,10 +95,9 @@ sections:
     grid_items:
       - title: Priero el Negocio
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Desarrollamos pensando en la lógica y necesidad del negocio. Construir
+          casos de estudio de éxito es lo que nos apasiona. 
         content_align: left
         actions:
           - label: Learn More
