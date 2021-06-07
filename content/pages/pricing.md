@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: E-commerce
-        subtitle: Optional subtitle
+        subtitle: Desa
         title_align: left
         content: |-
           ---
