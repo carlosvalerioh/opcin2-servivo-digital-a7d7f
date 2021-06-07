@@ -73,9 +73,8 @@ sections:
 
           ###
 
-          **Haz crecer tu negocio, nosotros te ayudamos con el resto. **
+          **Haz crecer tu negocio, el resto lo hacemos nosotros. **
 
-          *   Desarrollo de sitio web con buenas prácticas
           *   Estrategia SEO para posicionamiento en buscadores
           *   Estrategía de Marketing Digital
           *   Nisi cubilia interdum ultricies
