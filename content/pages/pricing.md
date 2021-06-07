@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Comienza hoy mismo
-    subtitle: 'Desarrolla tu negocio, el resto lo hacemos por ti.'
+    subtitle: 'Desarrolla tu negocio, nosotros te llevamos al siguiente nivel.'
     align: center
     padding_top: large
     padding_bottom: small
