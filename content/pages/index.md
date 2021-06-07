@@ -233,7 +233,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Carlos Valerio
+      - title: Carlos Valerio Hidalgo
         subtitle: "Co-Founder &\_Software Engineer"
         title_align: center
         image: /images/IMG_4710 2-carlos.jpg
