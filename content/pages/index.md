@@ -236,7 +236,7 @@ sections:
       - title: Carlos Valerio Hidalgo
         subtitle: "Co-Founder &\_Software Engineer"
         title_align: center
-        image: /images/IMG_4710 2-carlos.jpg
+        image: /images/1618929211672.jpeg
         image_position: top
       - title: Dianne Ameter
         subtitle: Software Engineer
