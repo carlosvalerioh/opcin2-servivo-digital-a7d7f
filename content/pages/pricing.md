@@ -55,18 +55,18 @@ sections:
       - title: Web
         subtitle: Llevamos tu web al siguiente nivel.
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ###
 
           per month, billed yearly
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   Desarrollo de sitio web con buenas prácticas
+          *   Estrategia SEO para posicionamiento en buscadores
+          *   V
+          *   Nisi cubilia interdum ultricies
+          *   Feugiat porta tortor
         content_align: left
         actions:
           - label: Start with Business
