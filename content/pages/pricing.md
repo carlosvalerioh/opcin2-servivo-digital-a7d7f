@@ -81,7 +81,6 @@ sections:
           *   Estrategia SEO para posicionamiento en buscadores.
           *   Desarrollo a la medida o implementación SaaS.
           *   Estrategía de Marketing Digital
-          *   Nisi cubilia interdum ultricies
 
         content_align: left
         actions:
