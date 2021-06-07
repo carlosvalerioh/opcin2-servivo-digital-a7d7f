@@ -63,7 +63,7 @@ sections:
       - title: Desarrollo de Tecnología a la medida
         content: "Construcción de productos digitales sobre necesidades del negocio y sus clientes. Más que una App o una plataforma web genérica.\_[\n](https://servivo-digital-67ac4.netlify.app/pricing/)\n"
         actions:
-          - label: Learn More
+          - label: VER MÁS
             url: /style-guide
             style: primary
             has_icon: true
