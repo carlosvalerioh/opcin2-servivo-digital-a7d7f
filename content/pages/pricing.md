@@ -52,7 +52,7 @@ sections:
           *   Litora primis facilisis ullamcorper per
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: Comienza hoy mismo
             url: /features
             style: primary
         actions_align: left
