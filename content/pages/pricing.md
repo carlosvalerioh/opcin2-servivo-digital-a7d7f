@@ -71,6 +71,9 @@ sections:
 
           **Desarrollamos tu sitio web y lo llevamos al siguiente nivel.**
 
+          ****
+
+          *   Estrategia SEO para posicionamiento en buscadores.
           *   Desarrollo a la medida o implementación SaaS.
           *   Estrategía de Marketing Digital
           *   Nisi cubilia interdum ultricies
