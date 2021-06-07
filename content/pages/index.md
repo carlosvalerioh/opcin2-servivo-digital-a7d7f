@@ -75,10 +75,13 @@ sections:
         media_position: right
         media_width: fifty
       - title: Construcción de eCommerce
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Construimos pensando en tu negocio. Nos encargamos de diseñar las
+          mejores experiencias para tus clientes: desde la forma en la que
+          pagas, hasta la llegada del pedido a la puerta de su hogar.
+          Construimos un eCommerce listo para tener éxito.[
+
+          ](https://servivo-digital-67ac4.netlify.app/pricing/)
         actions:
           - label: Learn More
             url: /style-guide
