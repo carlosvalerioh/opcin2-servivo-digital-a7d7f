@@ -244,7 +244,7 @@ sections:
         image: images/dianne-ameter.jpg
         image_position: top
       - title: Hugh Saturation
-        subtitle: Developer Advocate
+        subtitle: Sales and RP
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
