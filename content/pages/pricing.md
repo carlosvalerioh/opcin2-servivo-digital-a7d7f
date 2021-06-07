@@ -54,7 +54,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Desarrollo Web
-        subtitle: Llevamos tu web al siguiente nivel.
+        subtitle: Llevamos tu sitio web al siguiente nivel.
         title_align: left
         content: |
           ***
