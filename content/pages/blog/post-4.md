@@ -17,7 +17,7 @@ excerpt: >-
   vitium consuetudo Latina traduceret.
 thumb_image: images/classic/post-4.png
 thumb_image_alt: Post 4 placeholder image
-image: images/classic/post-4.png
+image: /images/mediamodifier-5u5IQyQdfkM-unsplash.jpg
 image_alt: Post 4 placeholder image
 image_position: right
 seo:
