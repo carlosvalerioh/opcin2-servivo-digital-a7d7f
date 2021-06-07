@@ -32,7 +32,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Cursos / Capacitación
-        subtitle: Optional subtitle
+        subtitle: Sé Digital y crece más
         title_align: left
         content: |-
           ---
