@@ -45,8 +45,8 @@ sections:
 
           per month, billed yearly
 
-          *   Cursos y formar parte de una comunidad de emprendedores.
-          *   Consultoría Digital. 
+          *   Cursos y acceso a una comunidad de emprendedores.
+          *   Consultoría Digital.
           *   Workshops
           *   Design Thinking
           *   Estrategias de crecimiento para eCommerce
