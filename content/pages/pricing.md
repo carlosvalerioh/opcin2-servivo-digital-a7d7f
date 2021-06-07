@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: E-commerce
-        subtitle: Crea t
+        subtitle: E-commerce y pagos en línea para tu negocio.
         title_align: left
         content: |
           ***
