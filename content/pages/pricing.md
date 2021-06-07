@@ -12,21 +12,17 @@ sections:
       - title: E-commerce
         subtitle: Crea t
         title_align: left
-        content: >
+        content: |
           ***
-
 
           ### $9
 
-
           Ecommerce listo para crecer
 
-
           *   Desarrollamos tu tienda en línea.
+              *   Multiplicamos tus ventas 
 
-
-          *   *   *   Multiplicamos tus ventasAnalizamos lo que puedes hacer
-          mejor
+              *   Analizamos lo que puedes hacer mejor
         content_align: left
         actions:
           - label: Start with Personal
