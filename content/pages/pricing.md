@@ -21,12 +21,12 @@ sections:
 
           **Ecommerce listo para crecer**
 
-          ****
+          ***
 
           *   Desarrollamos tu tienda en línea.
           *   Multiplicamos tus ventas
           *   Analizamos lo que puedes hacer mejor
-          *   Links de pagos personalizados.
+          *   Links de pago personalizados.
           *   Estrategia de Marketing Digital.
         content_align: left
         actions:
