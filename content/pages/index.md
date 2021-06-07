@@ -233,7 +233,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Gustav Purpleson
+      - title: Carlos Valerio
         subtitle: "Co-Founder &\_Software Engineer"
         title_align: center
         image: /images/IMG_4710 2-carlos.jpg
