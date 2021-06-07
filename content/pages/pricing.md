@@ -71,7 +71,7 @@ sections:
 
           ###
 
-          Desarrolla tu negocio, el resto lo hacemos nosotros. 
+          **Nosotros lo hacemos por ti **
 
           *   Estrategia SEO para posicionamiento en buscadores.
           *   Desarrollo a la medida o implementación SaaS.
