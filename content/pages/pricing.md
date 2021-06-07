@@ -38,17 +38,25 @@ sections:
           Descubre todo lo que te estás perdiendo por no ser Digital y comienza
           la Transformación Digital.
         title_align: left
-        content: |
+        content: >
           ***
+
 
           ###
 
-          per month, billed yearly
 
-          *   Cursos y acceso a una comunidad de emprendedores.
+          Aprende lo que significa ser Digital y lleva tu negocio al siguiente
+          nivel. No lo hagas solo, hazlo con una comunidad. 
+
+
           *   Consultoría Digital.
+
+          *   Descuu 
+
           *   Workshops
+
           *   Design Thinking
+
           *   Estrategias de crecimiento para eCommerce
         content_align: left
         actions:
