@@ -20,9 +20,8 @@ sections:
           Ecommerce listo para crecer
 
           *   Desarrollamos tu tienda en línea.
-              *   Multiplicamos tus ventas 
-
-              *   Analizamos lo que puedes hacer mejor
+          *   Multiplicamos tus ventas
+          *   Analizamos lo que puedes hacer mejor
         content_align: left
         actions:
           - label: Start with Personal
