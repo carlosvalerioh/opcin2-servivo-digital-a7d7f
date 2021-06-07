@@ -244,7 +244,7 @@ sections:
         image: images/dianne-ameter.jpg
         image_position: top
       - title: Juan José Gutierrez
-        subtitle: Sales & Digital PR
+        subtitle: Customer Success Manager
         title_align: center
         image: /images/120729463_351384429642322_4099580936422457335_n.jpg
         image_position: top
