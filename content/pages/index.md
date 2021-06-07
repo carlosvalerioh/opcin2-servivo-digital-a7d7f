@@ -62,10 +62,7 @@ sections:
     features:
       - title: Creación de estrategias y modelos de negocios digitales.
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "Plantearemos un modelo de acuerdo con la realidad actual y las necesidades de tu negocio, permitiendo flexibilidad, eficiencia e innovación.\_[\n](https://servivo-digital-67ac4.netlify.app/pricing/)\n"
         actions:
           - label: Learn More
             url: /style-guide
