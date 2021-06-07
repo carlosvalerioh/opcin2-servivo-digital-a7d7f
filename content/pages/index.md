@@ -229,7 +229,7 @@ sections:
     title: Nuestro equipo
     subtitle: Grid Section Example
     actions:
-      - label: Join the team
+      - label: Únete al equipo
         url: /style-guide
         style: primary
     grid_items:
