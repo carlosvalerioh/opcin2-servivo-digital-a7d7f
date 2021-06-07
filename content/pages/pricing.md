@@ -69,7 +69,9 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Desarrollo Web
-        subtitle: 'Desarrolla tu negocio, el resto lo hacemos nosotros.'
+        subtitle: >-
+          Desarrollo de tecnología a la medida. Desarrollo centrado en lógica de
+          negocio.
         title_align: left
         content: |+
           ***
