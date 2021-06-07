@@ -49,15 +49,15 @@ sections:
           nivel.**
 
 
-          *   Consultoría Digital.
+          *   Curso de Transformación Digital.
 
-          *   Descuu
+          *   Curso de eCommerce.
 
-          *   Workshops
+          *   Workshops.
 
-          *   Design Thinking
+          *   Design Thinking.
 
-          *   Estrategias de crecimiento para eCommerce
+          *   Estrategias de crecimiento.
         content_align: left
         actions:
           - label: Comienza hoy mismo
