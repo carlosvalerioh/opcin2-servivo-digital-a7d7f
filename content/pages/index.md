@@ -31,7 +31,7 @@ sections:
       - title: Creación de estrategias y modelos de negocios digitales.
         content: "Plantearemos un modelo de acuerdo con la realidad actual y las necesidades de tu negocio, permitiendo flexibilidad, eficiencia e innovación.\_[\n](https://servivo-digital-67ac4.netlify.app/pricing/)\n"
         actions:
-          - label: Learn More
+          - label: VER MÁS
             url: /style-guide
             style: primary
             has_icon: true
