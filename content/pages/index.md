@@ -234,7 +234,7 @@ sections:
         style: primary
     grid_items:
       - title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
+        subtitle: "Co-Founder &\_Software Engineer"
         title_align: center
         image: /images/IMG_4710 2-carlos.jpg
         image_position: top
