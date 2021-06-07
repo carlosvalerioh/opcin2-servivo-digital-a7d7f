@@ -50,7 +50,7 @@ sections:
 
           ](https://servivo-digital-67ac4.netlify.app/pricing/)
         actions:
-          - label: Learn More
+          - label: VER MÁS
             url: /style-guide
             style: primary
             has_icon: true
