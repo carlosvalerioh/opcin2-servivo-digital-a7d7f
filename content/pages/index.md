@@ -29,7 +29,6 @@ sections:
     subtitle: Features Section Example
     features:
       - title: Creación de estrategias y modelos de negocios digitales.
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: "Plantearemos un modelo de acuerdo con la realidad actual y las necesidades de tu negocio, permitiendo flexibilidad, eficiencia e innovación.\_[\n](https://servivo-digital-67ac4.netlify.app/pricing/)\n"
         actions:
           - label: Learn More
