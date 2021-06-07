@@ -52,7 +52,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Web
+      - title: Desarrollo Web
         subtitle: Llevamos tu web al siguiente nivel.
         title_align: left
         content: |
