@@ -61,7 +61,6 @@ sections:
         media_position: left
         media_width: fifty
       - title: Desarrollo de Tecnología a la medida
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: "Construcción de productos digitales sobre necesidades del negocio y sus clientes. Más que una App o una plataforma web genérica.\_[\n](https://servivo-digital-67ac4.netlify.app/pricing/)\n"
         actions:
           - label: Learn More
