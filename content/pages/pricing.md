@@ -73,7 +73,7 @@ sections:
 
           ###
 
-          **\*\*Haz crecer tu negocio, el resto lo hacemos nosotros. \*\***
+          **Desarrolla tu negocio, el resto lo hacemos nosotros. **
 
           ***
 
