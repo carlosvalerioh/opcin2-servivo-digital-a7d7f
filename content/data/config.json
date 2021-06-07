@@ -31,11 +31,6 @@
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link"
-            },
-            {
-                "label": "Style Gui",
-                "url": "/style-guide",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
