@@ -226,7 +226,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: EQUIPO
+    title: Nuestro equipo
     subtitle: Grid Section Example
     actions:
       - label: Join the team
