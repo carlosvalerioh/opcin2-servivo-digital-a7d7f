@@ -79,8 +79,8 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
+          “Nosotros hemos construido ecommerce y casos de estudio de $0 hasta
+          facturación de $403,656 dólares”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: /images/IMG_4710 2-carlos.jpg
         image_alt: Brandon Guidelines
