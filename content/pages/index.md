@@ -246,7 +246,7 @@ sections:
       - title: Hugh Saturation
         subtitle: "Sales and\_Digital PR"
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: /images/120729463_351384429642322_4099580936422457335_n.jpg
         image_position: top
       - title: Hilary Ouse
         subtitle: Operations Manager
