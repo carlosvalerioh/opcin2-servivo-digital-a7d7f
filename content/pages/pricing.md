@@ -73,11 +73,11 @@ sections:
 
           ###
 
-          per month, billed yearly
+          **Haz crecer tu negocio, nosotros te ayudamos con el resto. **
 
           *   Desarrollo de sitio web con buenas prácticas
           *   Estrategia SEO para posicionamiento en buscadores
-          *   Estrategía de Marketing Digital 
+          *   Estrategía de Marketing Digital
           *   Nisi cubilia interdum ultricies
           *   Feugiat porta tortor
         content_align: left
