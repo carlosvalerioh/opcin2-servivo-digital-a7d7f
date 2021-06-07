@@ -69,7 +69,9 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Desarrollo Web
-        subtitle: Desarrollo de tecnología a la medida. Centrado en lógica de negocio.
+        subtitle: >-
+          Desarrollo de tecnología a la medida. Centrado en la lógica de
+          negocio.
         title_align: left
         content: |+
           ***
