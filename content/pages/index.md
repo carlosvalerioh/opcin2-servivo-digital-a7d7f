@@ -238,7 +238,7 @@ sections:
         title_align: center
         image: /images/1618929211672.jpeg
         image_position: top
-      - title: Dianne Ameter
+      - title: Alvaro Castillo
         subtitle: Software Engineer
         title_align: center
         image: images/dianne-ameter.jpg
