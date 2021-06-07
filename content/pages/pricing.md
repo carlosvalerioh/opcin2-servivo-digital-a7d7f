@@ -23,6 +23,7 @@ sections:
           *   Multiplicamos tus ventas
           *   Analizamos lo que puedes hacer mejor
           *   Recibe pagos en línea y redes sociales en menos de una hora
+          *   Estrategia de Marketing Digital. 
         content_align: left
         actions:
           - label: Start with Personal
