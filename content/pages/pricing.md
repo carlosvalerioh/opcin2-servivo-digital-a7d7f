@@ -28,7 +28,7 @@ sections:
           *   Estrategia de Marketing Digital. 
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: Comienza hoy mismo
             url: /features
             style: primary
         actions_align: left
