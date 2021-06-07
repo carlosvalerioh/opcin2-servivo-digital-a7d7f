@@ -64,7 +64,7 @@ sections:
 
           *   Desarrollo de sitio web con buenas prácticas
           *   Estrategia SEO para posicionamiento en buscadores
-          *   V
+          *   Estrategía de Marketing Digital 
           *   Nisi cubilia interdum ultricies
           *   Feugiat porta tortor
         content_align: left
