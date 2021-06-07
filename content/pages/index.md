@@ -243,7 +243,7 @@ sections:
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
-      - title: Juanjo Torres
+      - title: "Juan José Gutierrez TorreVer el perfil de Juan José Gutierrez Torre\_• 1"
         subtitle: Sales & Digital PR
         title_align: center
         image: /images/120729463_351384429642322_4099580936422457335_n.jpg
