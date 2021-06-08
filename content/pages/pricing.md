@@ -103,10 +103,11 @@ sections:
     title: '¡Tú pregunta, nosotros respondemos!'
     grid_items:
       - title: ¿Cómo trabajan?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Usamos metodologías Agile para tener la mejor comunicación con
+          nuestros stakeholders. Construimos un plan y fijamos objetivos para el
+          desarrollo y crecimiento de los negocios digitales de nuestros
+          aliados. 
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
