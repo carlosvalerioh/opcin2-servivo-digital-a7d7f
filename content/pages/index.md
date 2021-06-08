@@ -283,7 +283,7 @@ sections:
     content: |
       La Transformación Digital en el 2021 ya no es un lujo, es una necesidad. 
     actions:
-      - label: Button
+      - label: Comienza hoy mismo
         url: /pricing
         style: primary
     actions_position: bottom
