@@ -73,7 +73,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/3410814.png
+        image: /images/cons-03.png
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
