@@ -124,7 +124,7 @@ sections:
           computación en la nube, la colaboración social y móvil, la
           inteligencia artificial y el análisis predicción. Lo digital no es la
           tecnología. Se trata de competir de manera diferente.
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
+      - title: ¿Qué tan rápido lo hacen?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
           Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
