@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Explore Features
+    title: Nos encanta compartir lo que sabemos
     subtitle: Nos encanta compartir lo que sabemos
     background_color: primary
   - type: features_section
