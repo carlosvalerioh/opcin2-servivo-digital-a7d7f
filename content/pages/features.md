@@ -10,7 +10,7 @@ sections:
       - title: |-
           En 2023, el e-commerce
           habrá crecido +4x
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: No más límites
         content: >
           El comportamiento del comprador cambió drásticamente, ya que puede
           adquirir online, productos de
