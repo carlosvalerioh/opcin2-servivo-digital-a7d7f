@@ -96,8 +96,8 @@ sections:
       - title: Priero el Negocio
         title_align: left
         content: >
-          Desarrollamos pensando en la lógica y necesidad del negocio. Construir
-          casos de estudio de éxito es lo que nos apasiona. 
+          #### En 2023, el e-commerce habrá crecido
+          +4x[&#xA;](https://preview--opcin2-servivo-digital-a7d7f.stackbit.dev/style-guide/)
         content_align: left
         actions:
           - label: Learn More
