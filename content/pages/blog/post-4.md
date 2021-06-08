@@ -84,3 +84,22 @@ cada vez más fáciles, rápidas y convenientes
 > En 2023, el e-commerce
 > habrá crecido + 4x
 > que el comercio en tiendas físicas
+>
+
+En Latinoamérica, los niveles de desarrollo del
+e-commerce son promisorios, con tasas de alto
+crecimiento cercanas al 40% para el 20232.
+Estos niveles pueden explicarse por la baja
+penetración, especialmente si comparamos
+Latinoamérica con otras regiones (por ejemplo,
+Asia, Norteamérica y Europa). Brasil,
+lógicamente, tiene el liderazgo en compras
+online al ser el país más grande de la región,
+mientras que México y Argentina comparten el
+podio y están dentro de los países con mayor
+crecimiento en el 2019
+
+
+
+
+
