@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Ponte en contacto
     subtitle: >-
-      Have a question? Send us a note using the form below and we will be in
-      touch soon.
+      ¿Tengo una pregunta? Envíenos una nota utilizando el formulario a
+      continuación y nos pondremos en contacto pronto.
     align: center
     padding_top: small
     padding_bottom: small
