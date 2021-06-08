@@ -91,7 +91,7 @@ sections:
     title: Hacemos que pase con Ecommerce
   - type: grid_section
     title: Sé parte del crecimiento
-    subtitle: Grid Section Example
+    subtitle: 'Datos de este año, reporte de Mercado Libre'
     grid_items:
       - title_align: left
         content: >
