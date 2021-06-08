@@ -48,12 +48,35 @@ seo:
       relativeUrl: true
 layout: post
 ---
+# Perspectivas del e-commerce
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem illi videri nihil dolere. Quid est enim aliud esse versutum. Age, inquies, ista parva sunt. Verum hoc idem saepe faciamus. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt. Duo Reges: constructio interrete. Itaque eos id agere, ut a se dolores, morbos, debilitates repellant. Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L.
+El avance de Internet alteró la jornada de
+compra por completo, desde la manera en que
+los consumidores realizan la fase de descubrimiento hasta la operación final, ya sea en
+online o no. Uno de los desafíos más grandes
+para las marcas, los equipos de Insight y Ventas
+es comprender qué motiva a los compradores;
+entender cómo se desarrolla el proceso de
+toma de decisión y, aún más importante,
+cuándo están a punto de realizar la compra.
+Alcanzar la audiencia buscada por una marca ya
+no se logra planificando un día u horario, en un
+mix de medios convencionales o mediante
+estímulos de marketing en el punto de venta.  
 
-- Restinguet citius, si ardentem acceperit.
-- Te enim iudicem aequum puto, modo quae dicat ille bene noris.
-- Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
-- Quo minus animus a se ipse dissidens secumque discordans gustare partem ullam liquidae voluptatis et liberae potest.
-
-**Quippe: habes enim a rhetoribus;** Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere. Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali. Sic consequentibus vestris sublatis prima tolluntur. Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est.
+Hoy es importante direccionar los esfuerzos
+publicitarios donde está la atención del
+consumidor, ya sea en redes sociales,
+contenidos de entretenimiento o en el proceso
+de compra, y evaluar la efectividad de cada
+medio, la cual se encuentra asociada
+inherentemente con la predisposición de los
+consumidores a ser interpelados por la marca.
+Los marketplaces crecen activamente en todo el
+mundo para mejorar y simplificar la vida de las
+personas. La sofisticación del machine learning
+en los motores de búsqueda es una carrera en
+la que todos compiten para mejorar la facilidad
+de compra, maximizar la experiencia del usuario
+y hacer que las decisiones de compra sean
+cada vez más fáciles, rápidas y convenientes
