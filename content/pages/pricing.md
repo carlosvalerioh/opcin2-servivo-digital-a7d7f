@@ -127,7 +127,8 @@ sections:
       - title: ¿Qué tan rápido lo hacen?
         content: >
           Hoy más tarde puedes comenzar a recibir pagos en línea y en 3 días
-          tienes una ecommerce listo para vender. 
+          tienes una ecommerce listo para vender. ¡No hay tiempo que perder! Ser
+          digital es ser ágil. 
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
