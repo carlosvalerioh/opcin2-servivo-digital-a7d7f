@@ -173,7 +173,7 @@ sections:
 
 
           **Luis**  *CEO de los cachorros*
-        image: images/hanson-deck.png
+        image: /images/pink-steel.png
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
