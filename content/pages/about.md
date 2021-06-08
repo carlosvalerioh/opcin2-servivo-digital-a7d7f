@@ -18,10 +18,9 @@ sections:
         media_width: fifty
       - title: Trabajamos en equipo
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Usamos metodologías Agile para poder desarrollar productos digitales
+          de alto valor para nuestros stakeholders.
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
