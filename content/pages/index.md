@@ -232,7 +232,7 @@ sections:
         style: primary
     grid_items:
       - title: Carlos Valerio Hidalgo
-        subtitle: "Co-Founder &\_Chief of Strategy & Data Officer"
+        subtitle: Co-Founder Chief of Strategy & Data Officer
         title_align: center
         image: /images/1618929211672.jpeg
         image_position: top
