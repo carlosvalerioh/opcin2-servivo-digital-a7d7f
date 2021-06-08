@@ -67,7 +67,7 @@ sections:
       - title: Section Item 2
         title_align: left
         content: >
-          ### Los marketplaces&#xA;tienen el&#xA;52%&#xA;de las
+          #### Los marketplaces&#xA;tienen el&#xA;52%&#xA;de las
           ventas&#xA;globales&#xA;del e-commerce
         content_align: left
         actions:
