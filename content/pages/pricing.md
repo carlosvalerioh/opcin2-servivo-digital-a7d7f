@@ -117,7 +117,7 @@ sections:
           cada etapa. 
       - title: ¿Qué es la Transformación Digital?
         content: >
-          Lo digital es competir de manera diferentes para aprovechar las nuevas
+          Lo digital es competir de manera diferente para aprovechar las nuevas
           experiencias de los clientes, las prácticas empresariales eficientes y
           los modelos comerciales innovadores, que se basan en la convergencia
           de una amplia gama de capacidades de tecnología e informática, como la
