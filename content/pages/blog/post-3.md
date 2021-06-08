@@ -61,12 +61,11 @@ En la\*\* \*[***nueva revolución industrial***](https://es.wikipedia.org/wiki/
 
 Sí, los **algoritmos computacionales.**
 
-La universidad de Oxford tiene un estudio titulado: [***“the future of employment how susceptible are jobs to computerisation”*** ](https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)en el que habla que en Estados Unidos, **el 47% del empleo **es así:** **especializado, repetitivo y de manejo de datos.
+La universidad de Oxford tiene un estudio titulado: [***“the future of employment how susceptible are jobs to computerisation”*** ](https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)en el que habla que en Estados Unidos, \*\*el 47% del empleo **es así:** \*\*especializado, repetitivo y de manejo de datos.
 
+Cuando esta generación de jóvenes salga de la universidad, **la mitad del empleo podría ser realizado por algoritmos.** Esto es lo que todo el mundo llama\* \*[**“Automatización del trabajo”.**](https://es.wikipedia.org/wiki/Automatizaci%C3%B3n_del_trabajo)
 
-Cuando esta generación de jóvenes salga de la universidad, **la mitad del empleo podría ser realizado por algoritmos.** Esto es lo que todo el mundo llama* *[**“Automatización del trabajo”.**](https://es.wikipedia.org/wiki/Automatizaci%C3%B3n_del_trabajo)
-
-Toda la gente que tiene empleos con esas características, tienen sueldos de** **“tipo medio”. Son lo que llamamos “clase media”. Esto puede dar miedo. El futuro parece moverse muy rápido y tenemos dos opciones: ser parte de él o ser víctimas de él.
+Toda la gente que tiene empleos con esas características, tienen sueldos de\*\* \*\*“tipo medio”. Son lo que llamamos “clase media”. Esto puede dar miedo. El futuro parece moverse muy rápido y tenemos dos opciones: ser parte de él o ser víctimas de él.
 
 Es un hecho, todos los empleos especializados, repetitivos y de manejo de datos van a desaparecer. Eso significa que es muy probable que desaparezca la clase media tal y como la conocemos.
 
@@ -80,22 +79,30 @@ Es un hecho, todos los empleos especializados, repetitivos y de manejo de datos 
 
 Estudios hablan de que los algoritmos también se van a cargar muchos empleos de clase alta, en sectores como la **medicina** e incluso en áreas de **ciencia** que analizan datos de forma repetitiva.
 
-Un estudio del [**World Economic Forum**](http://reports.weforum.org/) que se titula: [***“The future of Jobs 2018”***](http://reports.weforum.org/future-of-jobs-2018/)* *habla de que en los próximos 4 años la automatización destruirá **75 millones de empleos.** [La crisis financiera del 2008](https://es.wikipedia.org/wiki/Gran_Recesi%C3%B3n) destruyó **30 millones de empleos.**
+Un estudio del [**World Economic Forum**](http://reports.weforum.org/) que se titula: [***“The future of Jobs 2018”***](http://reports.weforum.org/future-of-jobs-2018/)\* \*habla de que en los próximos 4 años la automatización destruirá **75 millones de empleos.** [La crisis financiera del 2008](https://es.wikipedia.org/wiki/Gran_Recesi%C3%B3n) destruyó **30 millones de empleos.**
 
 Ahora, lo interesante es que la automatización también creará **133 millones de empleos.**
 
-El problema es que la gente que hoy se está formando en la universidad no cumple ni de lejos con las [**habilidades necesarias**](https://www.eae.es/categorias-de-actualidad/medios/cuales-son-las-soft-skills-mas-demandadas) para ocupar esos puestos de trabajo que serán muy bien pagados y que se basan principalmente en **programar**,** diseñar **y** supervisar los algoritmos.**
+El problema es que la gente que hoy se está formando en la universidad no cumple ni de lejos con las [**habilidades necesarias**](https://www.eae.es/categorias-de-actualidad/medios/cuales-son-las-soft-skills-mas-demandadas) para ocupar esos puestos de trabajo que serán muy bien pagados y que se basan principalmente en **programar**,\*\* diseñar **y** supervisar los algoritmos.\*\*
 
-También se está creando otro extremo en el mundo laboral moderno. Son trabajos temporales, mal pagados, que forman parte de la** **[**“economía colaborativa”.**](https://es.wikipedia.org/wiki/Consumo_colaborativo)
+También se está creando otro extremo en el mundo laboral moderno. Son trabajos temporales, mal pagados, que forman parte de la\*\* \*\*[**“economía colaborativa”.**](https://es.wikipedia.org/wiki/Consumo_colaborativo)
 
-Lo preocupante es que los políticos no están poniendo atención a esto por un fenómeno llamado [**“la ventana de Overton”.**](https://es.wikipedia.org/wiki/Ventana_de_Overton)** **Esta teoría cuenta que en cada época, solamente hay espacio para debatir una cierta cantidad de temas.
+Lo preocupante es que los políticos no están poniendo atención a esto por un fenómeno llamado [**“la ventana de Overton”.**](https://es.wikipedia.org/wiki/Ventana_de_Overton)\*\* \*\*Esta teoría cuenta que en cada época, solamente hay espacio para debatir una cierta cantidad de temas.
 
-En nuestra época los temas son:** *las banderas, el estado de bienestar, la corrupción, inmigración y derechos humanos.***
+En nuestra época los temas son:\*\* *las banderas, el estado de bienestar, la corrupción, inmigración y derechos humanos.*\*\*
 
-No entra ni la automatización del empleo, ni el calentamiento global,** **ni la obvia y necesaria reforma al sistema educativo.
+No entra ni la automatización del empleo, ni el calentamiento global,\*\* \*\*ni la obvia y necesaria reforma al sistema educativo.
 
 Podríamos hablar de la centralización de la información, la invasión de los algoritmos en la privacidad, la posverdad y muchos temas que no son mediáticos y que sin embargo son importantísimos. Pero eso lo dejaré para otro día.
 
-La realidad muchas veces parece superar a la ciencia ficción y todo el mundo tiene miedo. La tecnología impresiona y da miedo a la gente que la consume. Ese el punto clave en todo esto. **Dejar de ser consumidores **y **convertirnos en creadores.**
+La realidad muchas veces parece superar a la ciencia ficción y todo el mundo tiene miedo. La tecnología impresiona y da miedo a la gente que la consume. Ese el punto clave en todo esto. \*\*Dejar de ser consumidores \*\*y **convertirnos en creadores.**
 
 En este mundo en el que parece que las máquinas lo harán todo, subyace una realidad. Y es que hay algunas características que las máquinas nunca tendrán. Pero, **¿nos estamos formando con esas características? ¿Cómo educamos a los niños del futuro?**
+
+****![](/\_static/app-assets/images/1\_Rwy2Zv6yoECar9dfMqOA-w.jpeg)**¿Les permitimos que salgan al campo a disfrutar?, ¿Los educamos para observar?, ¿Para tener pensamiento crítico?, ¿Para que pregunten? ¿Los educamos para experimentar?, ¿Les damos la oportunidad de fracasar?**
+
+Nos han contado que las máquinas harán todo. Yo pienso que no es verdad. Hay características que las máquinas nunca tendrán:
+
+***la curiosidad, la observación, el sacrificio, la perseverancia, la pasión y la transversalidad del conocimiento.***
+
+Eso es lo que nos vuelve diferentes. Lo que nos hace especiales y únicos. Lo que nos convierte en lo que somos… lo que nos hace ser a** imagen y semejanza del creador.**
