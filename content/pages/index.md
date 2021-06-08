@@ -133,8 +133,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 3
-        title_align: left
+      - title_align: left
         content: |
           #### 8 / 10 latinoamericanos\* compraron online al menos una vez
         content_align: left
