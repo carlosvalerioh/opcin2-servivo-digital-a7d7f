@@ -37,7 +37,7 @@ sections:
       - title: Atención al Cliente
         title_align: center
         content: |
-          Nos mueve el deseo de ayudarte a llegar tan lejos como tú quieras. 
+          Cuéntanos en qué podemos ayudarte ¡Estamos deseosos por conocerte!
         content_align: center
         actions:
           - label: Comienza hoy mismo
