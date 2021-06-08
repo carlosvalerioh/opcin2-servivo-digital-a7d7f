@@ -183,10 +183,8 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
+      - content: |2
+           Nos ayudaron a transformar nuestro negocio en 6 meses. Las personas de Servivo Digital nos ayudaron a ser totalmente digitales.
 
           **Eleanor Carr,** *CTO, Studio*
         image: images/eleanor-carr.png
