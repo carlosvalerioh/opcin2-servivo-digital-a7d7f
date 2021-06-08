@@ -48,10 +48,18 @@ sections:
         subtitle: |-
           Oportunidades para la construcción
           de marca en e-commerce
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          Estas tendencias revelan que queda mucho por
+          hacer durante el recorrido. En un contexto donde
+          los compradores están dispuestos a comprar, las
+          marcas tienen una gran oportunidad. Aunque los
+          compradores online ya tienen una fuerte
+          intención de compra, las marcas no
+          necesariamente están aprovechando todo su
+          potencial. Las palabras genéricas aún dominan
+          los principales términos de búsqueda y aún
+          quedan por aprovechar muchas oportunidades
+          en las fases de descubrimiento y consideración.
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
