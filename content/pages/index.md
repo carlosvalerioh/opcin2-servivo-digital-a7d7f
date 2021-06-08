@@ -60,7 +60,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/doc-02.png
+        image: /images/03-tmaña.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
