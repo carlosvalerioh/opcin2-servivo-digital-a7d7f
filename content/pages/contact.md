@@ -19,7 +19,7 @@ sections:
           Cuéntanos en qué podemos ayudarte ¡Estamos deseosos por conocerte! 
         content_align: center
         actions:
-          - label: Get Support
+          - label: Comienza hoy mismo
             url: /general-enquiries
             style: link
             has_icon: true
