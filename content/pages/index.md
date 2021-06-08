@@ -107,7 +107,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: /images/noun_revenue_949180.png
+        image: /images/noun_growth_3757159.png
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
