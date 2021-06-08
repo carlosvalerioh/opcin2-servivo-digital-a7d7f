@@ -40,7 +40,7 @@ sections:
         content: "\_Perif. Sur 3720. \n\nJardines del Pedregal,\n\nÁlvaro Obregón, 01900\n\nservivomx@gmail.com \n"
         content_align: left
         actions:
-          - label: Get Directions
+          - label: Ver dirección
             url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
             style: link
             has_icon: true
