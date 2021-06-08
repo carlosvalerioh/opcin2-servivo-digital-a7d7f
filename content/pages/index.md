@@ -192,7 +192,7 @@ sections:
            Nos ayudaron a transformar nuestro negocio en 6 meses. Las personas de Servivo Digital nos ayudaron a ser totalmente digitales.
 
           **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
+        image: /images/festive-squid.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
