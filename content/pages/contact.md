@@ -55,8 +55,8 @@ sections:
       - title: Quiero una asesoría Gratis
         title_align: center
         content: >
-          Sí, es Gratis. Ponte en contacto con nosotros y te ayudaremos a
-          encontrar tu camino a la Transformación Digital. 
+          ¡Sí, es gratis! Ponte en contacto con nosotros y te ayudaremos a
+          encontrar tu camino a la Transformación Digital.
         content_align: center
         actions:
           - label: Obtener Asesoría Gratis
