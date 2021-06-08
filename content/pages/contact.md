@@ -32,7 +32,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Help & Support
+      - title: Atención al Cliente
         title_align: center
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
