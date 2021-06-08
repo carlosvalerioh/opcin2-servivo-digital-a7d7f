@@ -178,7 +178,9 @@ sections:
     background_color: secondary
   - type: cta_section
     title: ¿Listo para transformar el futuro con nosotros?
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: >
+      Construyamos un negocio que genere impacto y hagamos con emprendimiento
+      una gran transformación en Latinoamérica.
     actions:
       - label: Compare Plans
         url: /pricing
