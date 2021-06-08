@@ -44,7 +44,7 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
-      - title: Section Title Three
+      - title: Oportunidades para la construcción de marca en e-commerce
         subtitle: |-
           Oportunidades para la construcción
           de marca en e-commerce
