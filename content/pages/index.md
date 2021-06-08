@@ -130,7 +130,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-2.svg
+        image: /images/noun_Search_3974082.png
         image_alt: Section item 2 icon
         image_position: top
         image_align: left
