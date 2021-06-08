@@ -257,7 +257,6 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: "Encuentra todas las novedades sobre\_ecommerce\_y\_marketing digital\_para llevar tu negocio al próximo nivel."
-    subtitle: Blog Feed Section Example
     actions:
       - label: View All
         url: /blog
