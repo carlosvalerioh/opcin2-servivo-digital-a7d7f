@@ -37,7 +37,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/4671167-nego.png
+        image: /images/noun_strategy_3973168 (1).png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
