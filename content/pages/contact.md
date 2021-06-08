@@ -13,7 +13,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: Contratar Servicios
+      - title: Atención al cliente
         title_align: center
         content: >+
           Nos mueve el deseo de ayudarte a llegar tan lejos como tú quieras.[
