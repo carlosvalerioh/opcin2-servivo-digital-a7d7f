@@ -34,7 +34,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Atención al Cliente
+      - title: Contratar Servicios
         title_align: center
         content: |
           Cuéntanos en qué podemos ayudarte ¡Estamos deseosos por conocerte!
