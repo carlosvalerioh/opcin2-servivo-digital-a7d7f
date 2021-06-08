@@ -184,7 +184,7 @@ sections:
 
 
           **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
+        image: /images/hanson-dxsceck.png
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
