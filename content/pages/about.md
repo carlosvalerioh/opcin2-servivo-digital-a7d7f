@@ -9,7 +9,6 @@ sections:
   - type: features_section
     features:
       - title: Amamos construir
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           Para nosotros construir es lo más importante. Queremos crear verdadero
           valor para nuestros clientes y sumar casos de éxito a nuestra empresa.
