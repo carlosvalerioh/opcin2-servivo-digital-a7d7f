@@ -115,8 +115,12 @@ sections:
       - title: Section Item 2
         title_align: left
         content: >
-          #### Los marketplaces tienen el 52% de las ventas globales del
-          e-commerce[&#xA;](https://preview--opcin2-servivo-digital-a7d7f.stackbit.dev/style-guide/)
+          #### +75% de los compradores en Latinoamérica\* realiza la primera
+          búsqueda de productos en sitios de e-commerce
+
+
+          ####
+          [&#xA;](https://preview--opcin2-servivo-digital-a7d7f.stackbit.dev/style-guide/)[&#xA;](https://preview--opcin2-servivo-digital-a7d7f.stackbit.dev/style-guide/)
         content_align: left
         actions:
           - label: Learn More
