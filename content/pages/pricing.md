@@ -116,12 +116,14 @@ sections:
           construir a medida como el crecimiento lo demande. Te acompañamos en
           cada etapa. 
       - title: ¿Qué es la Transformación Digital?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        content: >
+          Lo digital es competir de manera diferentes para aprovechar las nuevas
+          experiencias de los clientes, las prácticas empresariales eficientes y
+          los modelos comerciales innovadores, que se basan en la convergencia
+          de una amplia gama de capacidades de tecnología e informática, como la
+          computación en la nube, la colaboración social y móvil, la
+          inteligencia artificial y el análisis predicción. Lo digital no es la
+          tecnología. Se trata de competir de manera diferente.
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
