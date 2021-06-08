@@ -51,9 +51,9 @@ sections:
         image_has_padding: true
       - title: Quiero una asesoría Gratis
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
+        content: >
+          Sí, es Gratis. Ponte en contacto con nosotros y te ayudaremos a
+          encontrar tu camino a la Transformación Digital. 
         content_align: center
         actions:
           - label: Get Support
