@@ -51,3 +51,4 @@ layout: post
 
 Ahora, no solamente los smartphones permiten saber eso. También los \*\*electrodomésticos, **los** vehículos \*\*o los \*\*robots \*\*de las fábricas que envían datos a las compañías sobre su estado. Eso es lo que llamamos [***“Internet de las Cosas”.***](https://es.wikipedia.org/wiki/Internet_de_las_cosas)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tlThdr3O5Qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
