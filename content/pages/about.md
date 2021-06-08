@@ -17,7 +17,6 @@ sections:
         media_position: right
         media_width: fifty
       - title: Trabajamos en equipo
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           Usamos metodologías Agile para poder desarrollar productos digitales
           de alto valor para nuestros stakeholders.
