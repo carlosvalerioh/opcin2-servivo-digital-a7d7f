@@ -34,9 +34,8 @@ sections:
         image_has_padding: true
       - title: Atención al Cliente
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: |
+          Nos mueve el deseo de ayudarte a llegar tan lejos como tú quieras. 
         content_align: center
         actions:
           - label: Get Support
