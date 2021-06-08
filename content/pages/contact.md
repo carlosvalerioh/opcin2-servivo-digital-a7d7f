@@ -56,7 +56,7 @@ sections:
           encontrar tu camino a la Transformación Digital. 
         content_align: center
         actions:
-          - label: Get Support
+          - label: Obtener Asesoría Gratis
             url: /general-enquiries
             style: primary
             has_icon: true
