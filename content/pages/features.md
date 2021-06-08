@@ -66,13 +66,9 @@ sections:
         image_has_padding: true
       - title: Section Item 2
         title_align: left
-        content: |
-          Los marketplaces
-          tienen el
-          52%
-          de las ventas
-          globales
-          del e-commerce
+        content: >
+          ### Los marketplaces&#xA;tienen el&#xA;52%&#xA;de las
+          ventas&#xA;globales&#xA;del e-commerce
         content_align: left
         actions:
           - label: Learn More
