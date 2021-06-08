@@ -37,7 +37,7 @@ sections:
           Nos mueve el deseo de ayudarte a llegar tan lejos como tú quieras. 
         content_align: center
         actions:
-          - label: Obten ayuda
+          - label: Comienza hoy mismo
             url: /general-enquiries
             style: secondary
             has_icon: true
