@@ -129,7 +129,7 @@ sections:
           Hoy más tarde puedes comenzar a recibir pagos en línea y en 3 días
           tienes una ecommerce listo para vender. ¡No hay tiempo que perder! Ser
           digital es ser ágil. 
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
+      - title: ¿Cómo son los cursos?
         content: "Los cursos son en modalidad a distancia y presenciales con todas las medidas sanitarias en nuestras oficinas en la Ciudad de México, Perif. Sur 3720, Jardines del Pedregal, Álvaro Obregón, 01900 Artz Pedregal, CDMX\_\n"
     grid_cols: two
     grid_gap_horiz: medium
