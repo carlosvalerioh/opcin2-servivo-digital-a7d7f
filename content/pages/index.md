@@ -158,7 +158,6 @@ sections:
     background_color: none
   - type: grid_section
     title: Lo que dicen de nosotros
-    subtitle: Grid Section Example
     grid_items:
       - content: >
           Lo increíble de Servivo Digital es que puedes escalar con su ayuda.
