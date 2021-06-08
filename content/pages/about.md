@@ -37,10 +37,7 @@ sections:
     title: Nuestra Oficina
     grid_items:
       - title: 'Ciudad de México, CDMX'
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+        content: "\_Perif. Sur 3720. \n\nJardines del Pedregal,\n\nÁlvaro Obregón, 01900\n\nservivomx@gmail.com \n"
         content_align: left
         actions:
           - label: Get Directions
