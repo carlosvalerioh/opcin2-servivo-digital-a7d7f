@@ -167,7 +167,6 @@ sections:
           nuestro ecommerce y un modelo de negocio totalmente nuevo.
 
 
-
           **Luis**  *CEO de los cachorros*
         image: images/hanson-deck.png
         image_alt: Hanson Deck
