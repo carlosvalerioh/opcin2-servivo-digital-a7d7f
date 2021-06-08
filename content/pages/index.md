@@ -173,9 +173,10 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Estos chicos realmente están preocupados por crear valor para todos
+          nosotros sus aliados. Están comprometidos con la transformación
+          digital de Latinoamérica.
 
 
           **Miles Tone,** *CEO, Studio*
