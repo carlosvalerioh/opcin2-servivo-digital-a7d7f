@@ -115,7 +115,7 @@ sections:
           comenzar con la implementación de una solución SaaS y más adelante
           construir a medida como el crecimiento lo demande. Te acompañamos en
           cada etapa. 
-      - title: Viverra nam libero justo laoreet sit?
+      - title: ¿Qué es la Transformación Digital?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
