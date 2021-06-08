@@ -7,9 +7,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: |-
-          En 2023, el e-commerce
-          habrá crecido +4x
+      - title: No más límites
         subtitle: No más límites
         content: >
           El comportamiento del comprador cambió drásticamente, ya que puede
