@@ -46,9 +46,11 @@ sections:
           Construimos pensando en tu negocio. Nos encargamos de diseñar las
           mejores experiencias para tus clientes: desde la forma en la que
           pagas, hasta la llegada del pedido a la puerta de su hogar.
-          Construimos un eCommerce listo para tener éxito.[
+          Construimos un eCommerce listo para tener éxito.
 
-          ](https://servivo-digital-67ac4.netlify.app/pricing/)
+
+          #### Llevamos tu negocio de eCommerce al siguiente
+          nivel[&#xA;](https://servivo-digital-67ac4.netlify.app/pricing/)
         actions:
           - label: VER MÁS
             url: /style-guide
