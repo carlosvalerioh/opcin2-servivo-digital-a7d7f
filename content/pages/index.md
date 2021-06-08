@@ -91,7 +91,7 @@ sections:
     title: Hacemos que pase con Ecommerce
   - type: grid_section
     title: Sé parte del crecimiento
-    subtitle: Reporte del crecimiento del Ecommerce en LATAM
+    subtitle: Reporte de crecimiento del Ecommerce en LATAM
     grid_items:
       - title_align: left
         content: >
