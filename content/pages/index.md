@@ -226,7 +226,6 @@ sections:
     background_color: primary
   - type: grid_section
     title: Nuestro equipo
-    subtitle: Grid Section Example
     actions:
       - label: Únete al equipo
         url: /style-guide
