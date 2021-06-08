@@ -49,7 +49,7 @@ sections:
       - title: Section Item 1
         title_align: left
         content: |
-          ## En 2023, el e-commerce habrá crecido +4x
+          #### En 2023, el e-commerce habrá crecido +4x
         content_align: left
         actions:
           - label: Learn More
