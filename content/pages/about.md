@@ -45,6 +45,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            url: 'https://g.page/wework-artz-pedregal?share'
         actions_align: left
         actions_width: auto
     grid_cols: four
