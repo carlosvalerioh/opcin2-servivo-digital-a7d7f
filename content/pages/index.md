@@ -237,7 +237,7 @@ sections:
         image: /images/1618929211672.jpeg
         image_position: top
       - title: Alvaro Castillo
-        subtitle: Software Engineer
+        subtitle: CTO & Software Engineer
         title_align: center
         image: /images/spectacular-pineapple.jpeg
         image_position: top
