@@ -125,11 +125,9 @@ sections:
           inteligencia artificial y el análisis predicción. Lo digital no es la
           tecnología. Se trata de competir de manera diferente.
       - title: ¿Qué tan rápido lo hacen?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: >
+          Hoy más tarde puedes comenzar a recibir pagos en línea y en 3 días
+          tienes una ecommerce listo para vender. 
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
