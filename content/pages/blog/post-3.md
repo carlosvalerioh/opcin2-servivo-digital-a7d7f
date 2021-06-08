@@ -47,7 +47,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-**Somos adictos** a generar datos. La **dopamina** que producen los “like”, es la droga más poderosa de este siglo. Generamos datos sin ser totalmente conscientes de que los smartphones permiten saber el lugar en el **que te encuentras**, **lo que compras**,** lo que** **lees y con quién te relacionas.**
+**Somos adictos** a generar datos. La **dopamina** que producen los “like”, es la droga más poderosa de este siglo. Generamos datos sin ser totalmente conscientes de que los smartphones permiten saber el lugar en el **que te encuentras**, **lo que compras**,\*\* lo que\*\* **lees y con quién te relacionas.**
 
-Ahora, no solamente los smartphones permiten saber eso. También los **electrodomésticos, **los** vehículos **o los **robots **de las fábricas que envían datos a las compañías sobre su estado. Eso es lo que llamamos [***“Internet de las Cosas”.***](https://es.wikipedia.org/wiki/Internet_de_las_cosas)
+Ahora, no solamente los smartphones permiten saber eso. También los \*\*electrodomésticos, **los** vehículos \*\*o los \*\*robots \*\*de las fábricas que envían datos a las compañías sobre su estado. Eso es lo que llamamos [***“Internet de las Cosas”.***](https://es.wikipedia.org/wiki/Internet_de_las_cosas)
 
