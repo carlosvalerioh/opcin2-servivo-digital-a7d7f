@@ -62,7 +62,7 @@ cuándo están a punto de realizar la compra.
 Alcanzar la audiencia buscada por una marca ya
 no se logra planificando un día u horario, en un
 mix de medios convencionales o mediante
-estímulos de marketing en el punto de venta.  
+estímulos de marketing en el punto de venta.
 
 Hoy es importante direccionar los esfuerzos
 publicitarios donde está la atención del
@@ -80,3 +80,7 @@ la que todos compiten para mejorar la facilidad
 de compra, maximizar la experiencia del usuario
 y hacer que las decisiones de compra sean
 cada vez más fáciles, rápidas y convenientes
+
+> En 2023, el e-commerce
+> habrá crecido + 4x
+> que el comercio en tiendas físicas
