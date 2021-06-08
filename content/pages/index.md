@@ -90,7 +90,7 @@ sections:
     background_color: primary
     title: Hacemos que pase con Ecommerce
   - type: grid_section
-    title: Cards Grid Section
+    title: Sé parte del crecimiento
     subtitle: Grid Section Example
     grid_items:
       - title_align: left
