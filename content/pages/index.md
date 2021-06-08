@@ -26,7 +26,6 @@ sections:
     background_color: primary
   - type: features_section
     title: Lo que hacemos por ti
-    subtitle: Features Section Example
     features:
       - title: Creación de estrategias y modelos de negocios digitales.
         content: "Plantearemos un modelo de acuerdo con la realidad actual y las necesidades de tu negocio, permitiendo flexibilidad, eficiencia e innovación.\_[\n](https://servivo-digital-67ac4.netlify.app/pricing/)\n"
