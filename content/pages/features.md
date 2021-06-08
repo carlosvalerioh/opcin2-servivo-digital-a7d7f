@@ -7,7 +7,9 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Section Title One
+      - title: |-
+          En 2023, el e-commerce
+          habrá crecido +4x
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: |
 
