@@ -21,7 +21,7 @@ sections:
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
-      - title: Section Title Two
+      - title: Un nuevo comienzo en la jornada de compra
         subtitle: |-
           Un nuevo comienzo en la jornada
           de compra
