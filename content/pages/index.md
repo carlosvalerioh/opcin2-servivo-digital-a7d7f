@@ -258,7 +258,7 @@ sections:
   - type: blog_feed_section
     title: "Encuentra todas las novedades sobre\_ecommerce\_y\_marketing digital\_para llevar tu negocio al próximo nivel."
     actions:
-      - label: View All
+      - label: Ver todo
         url: /blog
         style: primary
     blog_feed_cols: three
