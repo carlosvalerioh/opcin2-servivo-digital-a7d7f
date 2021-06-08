@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Explore Features
-    subtitle: Features Page Demo
+    subtitle: Nos encanta compartir lo que sabemos
     background_color: primary
   - type: features_section
     features:
