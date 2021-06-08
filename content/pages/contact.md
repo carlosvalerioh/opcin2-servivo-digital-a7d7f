@@ -15,8 +15,11 @@ sections:
     grid_items:
       - title: Contratar Servicios
         title_align: center
-        content: |
-          Cuéntanos en qué podemos ayudarte ¡Estamos deseosos por conocerte! 
+        content: >+
+          Nos mueve el deseo de ayudarte a llegar tan lejos como tú quieras.[
+
+          ](https://preview--opcin2-servivo-digital-a7d7f.stackbit.dev/general-enquiries/)
+
         content_align: center
         actions:
           - label: Obtener Ayuda
