@@ -93,8 +93,7 @@ sections:
     title: Cards Grid Section
     subtitle: Grid Section Example
     grid_items:
-      - title: Priero el Negocio
-        title_align: left
+      - title_align: left
         content: >
           #### En 2023, el e-commerce habrá crecido
           +4x[&#xA;](https://preview--opcin2-servivo-digital-a7d7f.stackbit.dev/style-guide/)
