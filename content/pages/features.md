@@ -68,10 +68,13 @@ sections:
         image_has_padding: true
       - title: Section Item 2
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          Los marketplaces
+          tienen el
+          52%
+          de las ventas
+          globales
+          del e-commerce
         content_align: left
         actions:
           - label: Learn More
