@@ -49,7 +49,7 @@ sections:
           Construimos un eCommerce listo para tener éxito.
 
 
-          ##### Llevamos tu negocio de eCommerce al siguiente
+          ###### Llevamos tu negocio de eCommerce al siguiente
           nivel[&#xA;](https://servivo-digital-67ac4.netlify.app/pricing/)
         actions:
           - label: VER MÁS
