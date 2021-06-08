@@ -15,9 +15,8 @@ sections:
     grid_items:
       - title: Contratar Servicios
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+        content: |
+          Cuéntanos en qué podemos ayudarte ¡Estamos deseosos por conocerte! 
         content_align: center
         actions:
           - label: Get Support
