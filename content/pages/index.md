@@ -123,7 +123,8 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: >-
+              http://www.mercadolibrepublicidad.com.ar/insights/MLP_ecommerce_2020_Mobile_esp.pdf
             style: link
             has_icon: true
             icon: arrow-right
