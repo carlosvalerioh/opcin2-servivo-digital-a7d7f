@@ -38,7 +38,7 @@ sections:
           Nos mueve el deseo de ayudarte a llegar tan lejos como tú quieras. 
         content_align: center
         actions:
-          - label: Get Support
+          - label: Obten ayuda
             url: /general-enquiries
             style: secondary
             has_icon: true
