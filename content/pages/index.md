@@ -160,12 +160,15 @@ sections:
     title: Reviews Section
     subtitle: Grid Section Example
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Lo increíble de Servivo Digital es que puedes escalar con su ayuda.
+          Desde la construcción de nuestra web, hasta dar el paso en la
+          construcción de nuestra web, hasta dar el paso en la construcción de
+          nuestro ecommerce y un modelo de negocio totalmente nuevo.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+
+          **Luis**  *CEO de los cachorros*
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
