@@ -45,7 +45,9 @@ sections:
         media_position: left
         media_width: fifty
       - title: Section Title Three
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: |-
+          Oportunidades para la construcción
+          de marca en e-commerce
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
