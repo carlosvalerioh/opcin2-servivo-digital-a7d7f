@@ -91,7 +91,7 @@ sections:
     title: Hacemos que pase con Ecommerce
   - type: grid_section
     title: Sé parte del crecimiento
-    subtitle: 'Datos de este año, reporte de Mercado Libre'
+    subtitle: Reporte del crecimiento del Ecommerce en LATAM
     grid_items:
       - title_align: left
         content: >
