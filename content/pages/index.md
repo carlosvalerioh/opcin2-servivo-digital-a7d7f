@@ -280,10 +280,8 @@ sections:
     background_color: none
   - type: cta_section
     title: 'De cero a cien, construyendo negocios digitales'
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      La Transformación Digital en el 2021 ya no es un lujo, es una necesidad. 
     actions:
       - label: Button
         url: /pricing
