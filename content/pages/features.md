@@ -25,10 +25,18 @@ sections:
         subtitle: |-
           Un nuevo comienzo en la jornada
           de compra
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          El camino que lleva a la compra también se modificó, cada vez más
+          consumidores inician la
+
+          búsqueda de productos en plataformas de
+
+          e-commerce en vez de motores de búsqueda.
+
+          En Mercado Libre podemos ver que los compradores comienzan su primera
+          búsqueda aquí y
+
+          es una tendencia en aumento.
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
