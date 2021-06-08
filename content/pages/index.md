@@ -240,7 +240,7 @@ sections:
       - title: Alvaro Castillo
         subtitle: Software Engineer
         title_align: center
-        image: /images/signal-2021-06-07-63832 p.m.jpeg
+        image: /images/curious-amaranth.jpeg
         image_position: top
       - title: Juan José Gutierrez
         subtitle: Customer Success Manager
