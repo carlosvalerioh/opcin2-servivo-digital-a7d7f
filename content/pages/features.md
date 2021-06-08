@@ -9,10 +9,10 @@ sections:
     features:
       - title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+
+          En 2023, el e-commerce
+          habrá crecido +4x
         image: images/about-3.jpg
         image_alt: Top view of business meeting
         media_position: right
