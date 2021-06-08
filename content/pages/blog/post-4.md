@@ -1,5 +1,5 @@
 ---
-title: Sé parte del crecimiento de eCommerce en México
+title: Sé parte del crecimiento del eCommerce en México
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
