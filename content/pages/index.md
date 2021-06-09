@@ -295,7 +295,7 @@ sections:
     background_color: secondary
 seo:
   title: Servivo Digital
-  description: The preview of the DIY theme
+  description: Comienza hoy mismo
   extra:
     - name: 'og:type'
       value: website
