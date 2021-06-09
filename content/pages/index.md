@@ -251,7 +251,7 @@ sections:
         image: /images/120729463_351384429642322_4099580936422457335_n.jpg
         image_position: top
       - title: Sabrina Valerio
-        subtitle: "Co-Founder &\_Operations Manager"
+        subtitle: "Co-Founder & \_Operations Manager"
         title_align: center
         image: /images/32425386_124475878362076_3704449824406372352_n.jpg
         image_position: top
