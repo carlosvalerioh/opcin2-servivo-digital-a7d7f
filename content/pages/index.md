@@ -193,7 +193,7 @@ sections:
           Servivo Digital nos ayudaron a ser totalmente digitales.
 
 
-          ***Alejandro y Maria ***
+          **Alejandro y Maria **
         image: /images/festive-squid.png
         image_alt: Eleanor Carr
         image_position: left
