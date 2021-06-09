@@ -11,10 +11,7 @@ categories:
 tags:
   - content/data/tags/jamstack.yaml
   - content/data/tags/sourcebit.yaml
-excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+excerpt: 'En 2023, el e-commerce habrá crecido + 4x que el comercio en tiendas físicas'
 thumb_image: /images/mediamodifier-5u5IQyQdfkM-unsplash.jpg
 thumb_image_alt: Post 4 placeholder image
 image: /images/mediamodifier-5u5IQyQdfkM-unsplash.jpg
