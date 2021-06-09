@@ -45,6 +45,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            url: v
         actions_align: center
         image: images/classic/icon-2.svg
         image_alt: Help and support icon
