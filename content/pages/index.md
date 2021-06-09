@@ -183,7 +183,7 @@ sections:
           digital de Latinoamérica.
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Ricardo Herrera,** *CEO, Studio*
         image: /images/hanson-dxsceck.png
         image_alt: Miles Tone
         image_position: left
@@ -193,7 +193,7 @@ sections:
           Servivo Digital nos ayudaron a ser totalmente digitales.
 
 
-          **Alejandro y María ***Emprendedores*
+          **Alejandro y María**
         image: /images/festive-squid.png
         image_alt: Eleanor Carr
         image_position: left
