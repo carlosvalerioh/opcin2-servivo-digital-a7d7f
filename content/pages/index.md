@@ -235,6 +235,7 @@ sections:
     actions:
       - label: Únete al equipo
         style: primary
+        url: 'https://wa.me/+525619878301'
     grid_items:
       - title: Carlos Valerio Hidalgo
         subtitle: Co-Founder Chief of Strategy & Data Officer
