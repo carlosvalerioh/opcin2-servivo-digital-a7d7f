@@ -1,8 +1,6 @@
 ---
 title: Sé parte del crecimiento del eCommerce en México
-subtitle: >-
-  Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
-  effectus est, hilara vita amissa est.
+subtitle: 2020 nos demostró la importancia del ecommerce para las pymes.
 date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
 categories:
