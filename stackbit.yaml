@@ -45,7 +45,7 @@ models:
       - type: image
         name: favicon
         label: Favicon
-        description: A square icon that represents your website
+        description: Servivo Digital 
       - type: enum
         name: layout_type
         label: Layout
