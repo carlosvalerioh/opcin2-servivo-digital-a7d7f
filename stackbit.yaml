@@ -42,7 +42,7 @@ models:
         label: Domain
         description: >-
           The domain of your site, including the protocol, e.g.
-          https://www.example.com/
+          https://servivo.digital
       - type: image
         name: favicon
         label: Favicon
