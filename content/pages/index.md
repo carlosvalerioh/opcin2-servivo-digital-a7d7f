@@ -183,7 +183,7 @@ sections:
           digital de Latinoamérica.
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Ricardo Herrera,** *CEO, Studio*
         image: /images/hanson-dxsceck.png
         image_alt: Miles Tone
         image_position: left
