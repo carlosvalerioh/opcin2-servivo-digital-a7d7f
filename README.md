@@ -13,6 +13,20 @@
 
 Te acompañamos en el proceso de transformación digital con más de 10 años de experiencia creando tecnología y construyendo Negocios Digitales.
 
+Plantearemos un modelo de acuerdo con la realidad actual y las necesidades de tu negocio, permitiendo flexibilidad, eficiencia e innovación.
+
+Llevamos tu negocio de eCommerce al siguiente nivel.
+
+Construimos pensando en tu negocio. Nos encargamos de diseñar las mejores experiencias para tus clientes: 
+
+* Tiedas en lineas optimizadas para ofecer el menor tiempo de carga
+* Formas de pago agiles y con la ultima tecnologia. 
+* Delivery altamente personalizado enfocado a la experiencia del consumidor.
+* logistica de Inventarios. 
+* Sistema de toma de decisiones basado en analis de datos.
+
+Construimos un eCommerce listo para tener éxito.
+
 
 ## Desktop
 
