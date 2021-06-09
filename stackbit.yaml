@@ -33,8 +33,7 @@ models:
         name: path_prefix
         label: Base URL
         description: >-
-          The base URL of this site. Useful for sites hosted under specific
-          path, e.g.: https://servivo.digital
+        Servivo Digital https://servivo.digital
         required: true
         hidden: true
       - type: string
