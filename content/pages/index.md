@@ -168,8 +168,8 @@ sections:
       - content: >
           Lo increíble de Servivo Digital es que puedes escalar con su ayuda.
           Desde la construcción de nuestra web, hasta dar el paso en la
-          construcción de nuestra web, hasta dar el paso en la construcción de
-          nuestro ecommerce y un modelo de negocio totalmente nuevo.
+          construcción de nuestro ecommerce y un modelo de negocio totalmente
+          nuevo.
 
 
           **Luis**  *CEO de los cachorros*
