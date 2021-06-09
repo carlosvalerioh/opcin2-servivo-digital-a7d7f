@@ -3,7 +3,7 @@ title: General
 sections:
   - type: hero_section
     title: General
-    subtitle: The optional subtitle
+    subtitle: Servivo Digital ¡Comienza hoy mismo!
     align: center
     padding_top: medium
     padding_bottom: none
