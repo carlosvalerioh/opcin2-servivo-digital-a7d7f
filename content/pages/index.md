@@ -14,7 +14,7 @@ sections:
         url: '/contact '
         style: primary
       - label: VER MÁS
-        url: /features
+        url: /pricing
         style: secondary
     image: /images/fold-no-1-e1620752205974-619x630.jpeg
     image_alt: Hero section placeholder image
