@@ -1,8 +1,6 @@
 ---
 title: El Futuro del Trabajo.
-subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+subtitle: ¿Seremos reemplazados por las máquinas?
 date: '2020-05-28'
 author: content/data/team/gustav-purpleson.yaml
 categories:
