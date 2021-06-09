@@ -188,10 +188,12 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: |2
-           Nos ayudaron a transformar nuestro negocio en 6 meses. Las personas de Servivo Digital nos ayudaron a ser totalmente digitales.
+      - content: >
+          Nos ayudaron a transformar nuestro negocio en 6 meses. Las personas de
+          Servivo Digital nos ayudaron a ser totalmente digitales.
 
-          **Eleanor Carr,** *CTO, Studio*
+
+          **Fundador,** FT 
         image: /images/festive-squid.png
         image_alt: Eleanor Carr
         image_position: left
