@@ -25,7 +25,11 @@ Construimos pensando en tu negocio. Nos encargamos de diseñar las mejores exper
 * logistica de Inventarios. 
 * Sistema de toma de decisiones basado en analis de datos.
 
-Construimos un eCommerce listo para tener éxito.
+Construimos un eCommerce listo para tener éxito con las tecnoligias mas nuevas 
+
+<p align="center">
+  <a href="https://github.com/Mrbanano"><img src="https://i.postimg.cc/nLYHf6Js/next-react-scss.png" height="32"></a>
+</p>
 
 
 ## Desktop
