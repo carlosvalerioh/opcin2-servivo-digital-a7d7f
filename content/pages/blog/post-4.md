@@ -1,8 +1,7 @@
 ---
 title: Sé parte del crecimiento del eCommerce en México
 subtitle: >-
-  Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
-  effectus est, hilara vita amissa est.
+ 
 date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
 categories:
