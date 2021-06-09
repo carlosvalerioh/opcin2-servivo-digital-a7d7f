@@ -28,7 +28,7 @@ Construimos pensando en tu negocio. Nos encargamos de diseñar las mejores exper
 Construimos un eCommerce listo para tener éxito con las tecnoligias mas nuevas 
 
 <p align="center">
-  <a href="https://github.com/Mrbanano"><img src="https://i.postimg.cc/nLYHf6Js/next-react-scss.png" height="32"></a>
+  <a href="https://github.com/Mrbanano"><img src="https://i.postimg.cc/nLYHf6Js/next-react-scss.png" height="80"></a>
 </p>
 
 
