@@ -2,7 +2,7 @@
 title: ¿Qué significa ser Digital?
 subtitle: >-
   Para comenzar la Transformación Digital es fundamental entender el significado
-  de Digital en los negocios y las organizaciones.
+  de ser Digital en los negocios y las organizaciones.
 date: '2020-06-02'
 author: content/data/team/gustav-purpleson.yaml
 categories:
