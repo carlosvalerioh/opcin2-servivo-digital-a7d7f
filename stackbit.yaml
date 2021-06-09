@@ -33,15 +33,16 @@ models:
         name: path_prefix
         label: Base URL
         description: >-
-        Servivo Digital https://servivo.digital
+          The base URL of this site. Useful for sites hosted under specific
+          path, e.g.: https://www.example.com/my-site/
         required: true
         hidden: true
       - type: string
         name: domain
         label: Domain
         description: >-
-          Servivo Digital
-          https://servivo.digital
+          The domain of your site, including the protocol, e.g.
+          https://www.example.com/
       - type: image
         name: favicon
         label: Favicon
