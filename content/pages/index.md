@@ -304,7 +304,7 @@ seo:
       value: Servivo Digital
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Comienza hoy mismo
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
