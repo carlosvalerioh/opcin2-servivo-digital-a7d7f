@@ -315,7 +315,7 @@ seo:
     - name: 'twitter:title'
       value: Servivo Digital
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Comienza hoy mismo 
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
