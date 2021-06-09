@@ -45,7 +45,7 @@ models:
       - type: image
         name: favicon
         label: Favicon
-        description: Servivo Digital 
+        description: A square icon that represents your website
       - type: enum
         name: layout_type
         label: Layout
@@ -53,7 +53,7 @@ models:
           - full-width
           - boxed
         default: full-width
-        description: Servivo Digital 
+        description: The layout of the site
         required: true
       - type: enum
         name: style
@@ -63,7 +63,7 @@ models:
           - classic
           - bold
         default: classic
-        description: Servivo Digital
+        description: The style of the site
         required: true
       - type: enum
         name: palette
