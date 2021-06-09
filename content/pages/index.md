@@ -54,7 +54,7 @@ sections:
           ###### [&#xA;](https://servivo-digital-67ac4.netlify.app/pricing/)
         actions:
           - label: VER MÁS
-            url: /style-guide
+            url: /pricing
             style: primary
             has_icon: true
             icon: arrow-right
