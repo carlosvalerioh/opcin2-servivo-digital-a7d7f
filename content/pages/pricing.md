@@ -31,7 +31,7 @@ sections:
         content_align: left
         actions:
           - label: Comienza hoy mismo
-            url: /features
+            url: 'https://wa.me/+525619878301'
             style: primary
         actions_align: left
         actions_width: full-width
