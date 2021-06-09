@@ -41,7 +41,7 @@ models:
         name: domain
         label: Domain
         description: >-
-          The domain of your site, including the protocol, e.g.
+          Servivo Digital
           https://servivo.digital
       - type: image
         name: favicon
