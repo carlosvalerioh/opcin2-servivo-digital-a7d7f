@@ -41,7 +41,6 @@ sections:
         content_align: center
         actions:
           - label: Comienza hoy mismo
-            url: /general-enquiries
             style: secondary
             has_icon: true
             icon: arrow-right
