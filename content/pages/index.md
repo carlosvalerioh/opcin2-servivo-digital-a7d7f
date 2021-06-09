@@ -295,6 +295,10 @@ seo:
   title: Servivo Digital
   description: Comienza hoy mismo
   extra:
+    - name: 'author'
+      value: SerVivo Digital  
+    - name: 'theme-color'
+      value: #29CF7F
     - name: 'og:type'
       value: website
       keyName: property
@@ -316,6 +320,18 @@ seo:
       value: Comienza hoy mismo
     - name: 'twitter:image'
       value: images/diy-preview.png
+    - name: 'MobileOptimized'
+      value: width
+    - name: 'HandheldFriendly'
+      value: true
+    - name: 'apple-mobile-web-app-capable'
+      value: yes
+    - name: 'apple-mobile-web-app-status-bar-style'
+      value: black-translucent
       relativeUrl: true
 layout: advanced
 ---
+
+
+
+   
