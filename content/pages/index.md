@@ -305,7 +305,7 @@ seo:
       value: Comienza hoy mismo
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: images/fondo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -315,7 +315,7 @@ seo:
     - name: 'twitter:description'
       value: Comienza hoy mismo
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: images/fondo.png
       relativeUrl: true
 layout: advanced
 ---
