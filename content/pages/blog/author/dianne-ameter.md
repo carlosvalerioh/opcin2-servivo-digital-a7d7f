@@ -3,7 +3,7 @@ title: Servivo Digital
 sections:
   - type: hero_section
     title: Servivo Digital
-    subtitle: The optional subtitle
+    subtitle: Comienza hoy mismo
     align: center
     padding_top: medium
     padding_bottom: none
