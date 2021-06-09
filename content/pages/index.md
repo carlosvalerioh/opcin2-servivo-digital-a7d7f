@@ -259,7 +259,7 @@ sections:
     align: center
     background_color: secondary
   - type: blog_feed_section
-    title: "Encuentra todas las novedades sobre\_ecommerce\_y\_marketing."
+    title: Blog
     actions:
       - label: Ver todo
         url: /blog
