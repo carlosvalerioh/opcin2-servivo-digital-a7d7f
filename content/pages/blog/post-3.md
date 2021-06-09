@@ -1,7 +1,8 @@
 ---
 title: El Futuro del Trabajo.
-subtitle: >-
-  
+
+subtitle: ¿Seremos reemplazados por las máquinas?
+
 date: '2020-05-28'
 author: content/data/team/gustav-purpleson.yaml
 categories:

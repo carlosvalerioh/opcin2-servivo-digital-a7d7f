@@ -1,7 +1,8 @@
 ---
 title: Sé parte del crecimiento del eCommerce en México
 subtitle: >-
- 
+  2020 nos demostró que el ecommerce es una de las mejores herramientas que las
+  pymes tienen para ser competitivas e innovadoras.
 date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
 categories:
