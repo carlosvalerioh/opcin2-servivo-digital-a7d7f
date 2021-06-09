@@ -59,7 +59,7 @@ sections:
         content_align: center
         actions:
           - label: Obtener Asesoría Gratis
-            url: /general-enquiries
+            url: 'https://wa.me/+525619878301'
             style: primary
             has_icon: true
             icon: arrow-right
