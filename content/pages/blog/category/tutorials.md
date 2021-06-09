@@ -23,7 +23,8 @@ sections:
   - type: form_section
     title: Recibe nuestro contenido
     title_align: center
-    content: Subscribe to our newsletter to make sure you don't miss anything.
+    content: |
+      Lleva tu negocio al siguiente nivel
     content_align: center
     form_position: bottom
     form_layout: inline
