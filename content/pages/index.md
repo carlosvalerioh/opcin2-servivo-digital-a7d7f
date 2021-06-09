@@ -234,7 +234,6 @@ sections:
     title: Nuestro equipo
     actions:
       - label: Únete al equipo
-        url: /style-guide
         style: primary
     grid_items:
       - title: Carlos Valerio Hidalgo
