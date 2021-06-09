@@ -63,7 +63,7 @@ models:
           - classic
           - bold
         default: classic
-        description: The style of the site
+        description: Servivo Digital
         required: true
       - type: enum
         name: palette
