@@ -23,7 +23,7 @@ sections:
         content_align: center
         actions:
           - label: Obtener Ayuda
-            url: /general-enquiries
+            url: 'https://wa.me/+525619878301'
             style: link
             has_icon: true
             icon: arrow-right
