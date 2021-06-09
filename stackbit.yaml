@@ -53,7 +53,7 @@ models:
           - full-width
           - boxed
         default: full-width
-        description: The layout of the site
+        description: Servivo Digital 
         required: true
       - type: enum
         name: style
