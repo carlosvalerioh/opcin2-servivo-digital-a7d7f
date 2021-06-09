@@ -198,12 +198,10 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: |
+          ¡Felicidades chicos! Hacen muy bien su trabajo 
 
-
-          **Gordon Norman,** *Web Designer, Studio*
+          **Angelica,** Emprendedora Fitness
         image: /images/hanson-djjkeck.png
         image_alt: Gordon Norman
         image_position: left
