@@ -1,7 +1,7 @@
 {
-  "name": "diy-nextjs",
-  "description": "A Stackbit DIY theme built with Next.js",
-  "version": "0.1.0",
+  "name": "ser-vivo-digital-website",
+  "description": "the official site of servivo digital",
+  "version": "0.2.0",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
