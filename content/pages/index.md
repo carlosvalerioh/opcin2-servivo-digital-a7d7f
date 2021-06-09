@@ -193,7 +193,7 @@ sections:
           Servivo Digital nos ayudaron a ser totalmente digitales.
 
 
-          **Fundador,** FT 
+          **Fundador,** *FT*
         image: /images/festive-squid.png
         image_alt: Eleanor Carr
         image_position: left
