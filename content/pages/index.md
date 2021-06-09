@@ -301,7 +301,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit DIY Theme
+      value: Servivo Digital
       keyName: property
     - name: 'og:description'
       value: The preview of the DIY theme
@@ -313,7 +313,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit DIY Theme
+      value: Servivo Digital
     - name: 'twitter:description'
       value: The preview of the DIY theme
     - name: 'twitter:image'
