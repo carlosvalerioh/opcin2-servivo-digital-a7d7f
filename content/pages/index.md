@@ -222,7 +222,7 @@ sections:
       ](https://wa.me/+525619878301)
     actions:
       - label: Comienza hoy mismo
-        url: /features
+        url: 'https://wa.me/+525619878301'
         style: secondary
     actions_position: right
     actions_width: fourty
