@@ -59,7 +59,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/03-tmaña.png
+        image: /images/feature---1.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
@@ -315,7 +315,7 @@ seo:
     - name: 'twitter:title'
       value: Servivo Digital
     - name: 'twitter:description'
-      value: Comienza hoy mismo 
+      value: Comienza hoy mismo
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
