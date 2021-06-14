@@ -1,17 +1,16 @@
 ---
 title: El Futuro del Trabajo.
-subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+subtitle: ¿Seremos reemplazados por las máquinas?
 date: '2020-05-28'
 author: content/data/team/gustav-purpleson.yaml
 categories:
   - content/data/categories/general.yaml
 tags: []
 excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+  Nos han contado que las máquinas harán todo. Yo pienso que no es verdad. Hay
+  características que las máquinas nunca tendrán:la curiosidad, la observación,
+  el sacrificio, la perseverancia, la pasión y la transversalidad del
+  conocimiento.
 thumb_image: /images/1_1dyXq3czeRVq7IB71odQvQ.jpeg
 thumb_image_alt: Post 3 placeholder image
 image: /images/1_1dyXq3czeRVq7IB71odQvQ.jpeg
