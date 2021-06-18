@@ -89,7 +89,7 @@ sections:
 
 
           ![](/\_static/app-assets/images/graphext-export_term.png)
-          image: /images/feature---1.png
+        image: /images/feature---1.png
         actions: []
         image_alt: lorem-ipsum
         media_position: top
