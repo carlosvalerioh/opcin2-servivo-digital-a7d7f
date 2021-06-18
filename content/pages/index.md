@@ -76,7 +76,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
-      - title: Todo lo hacemos basado en datos
+      - title: Todo lo hacemos con datos.
         content: |
           Social media listening y análisis de datos
 
