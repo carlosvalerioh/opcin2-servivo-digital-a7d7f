@@ -78,18 +78,14 @@ sections:
         media_width: fifty
       - title: Todo lo hacemos basado en datos
         subtitle: lorem-ipsum
-        content: >
-          ## Lorem ipsum
+        content: |
+          Social media listening y Análisis de datos
 
+          ## PODER TOMAR DECISIONES EN TIEMPO REAL
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
-
+          *   Escucha y seguimiento social 
+          *   Reportes 
+          *   Sinergia y construcción de estrategia basada en datos. 
 
           ![](/\_static/app-assets/images/graphext-export-2.png)
         actions: []
