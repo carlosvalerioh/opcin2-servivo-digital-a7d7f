@@ -41,7 +41,7 @@
         "logo": "/images/marvelous-robin.png",
         "logo_alt": "servivo digital logo",
         "label": "Jardines del pedregal",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_title": "Servivo Digital",
         "primary_nav_links": [
             {
