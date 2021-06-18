@@ -117,7 +117,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Conoce todo lo que podemos hacer juntos. **Ver Más**\n",
+        "anncmnt_content": "Conoce todo lo que podemos hacer juntos. [**Ver Más**](https://servivo.digital/pricing/)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
