@@ -76,7 +76,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
-      - title: Social media
+      - title: Todo lo hacemos basado en datos
         subtitle: lorem-ipsum
         content: >
           ## Lorem ipsum
