@@ -73,7 +73,7 @@ sections:
           Desarrollo de tecnología a la medida. Centrado en la lógica de
           negocio.
         title_align: left
-        content: |+
+        content: |
           ***
 
           **Desarrollamos tu sitio web y lo llevamos al siguiente nivel.**
@@ -81,9 +81,11 @@ sections:
           ***
 
           *   Estrategia SEO para posicionamiento en buscadores.
+          *   Social 
+          *   Social media listening
+          *   Análisis de datos
           *   Desarrollo a la medida o implementación SaaS.
           *   Estrategía de Marketing Digital
-
         content_align: left
         actions:
           - label: Comienza hoy mismo
