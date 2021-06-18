@@ -40,7 +40,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: Construcción de eCommerce
+      - title: Construcción de eCommerce.
         content: >
           ###### Llevamos tu negocio de eCommerce al siguiente nivel
 
