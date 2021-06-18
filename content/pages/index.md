@@ -77,7 +77,6 @@ sections:
         media_position: right
         media_width: fifty
       - title: Todo lo hacemos basado en datos
-        subtitle: lorem-ipsum
         content: |
           Social media listening y Análisis de datos
 
