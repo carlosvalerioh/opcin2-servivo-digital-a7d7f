@@ -45,7 +45,7 @@
         "primary_nav_title": "Servivo Digital",
         "primary_nav_links": [
             {
-                "label": "About",
+                "label": "",
                 "url": "/about",
                 "style": "link"
             },
