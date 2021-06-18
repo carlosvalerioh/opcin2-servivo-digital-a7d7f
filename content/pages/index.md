@@ -80,11 +80,11 @@ sections:
         content: |
           Social media listening y Análisis de datos
 
-          ## PODER TOMAR DECISIONES EN TIEMPO REAL
+          ##### **PODER TOMAR DECISIONES EN TIEMPO REAL**
 
-          *   Escucha y seguimiento social 
-          *   Reportes 
-          *   Sinergia y construcción de estrategia basada en datos. 
+          *   Reportes
+          *   Escucha y seguimiento social
+          *   Sinergia y construcción de estrategia basada en datos.
 
           ![](/\_static/app-assets/images/graphext-export-2.png)
         actions: []
