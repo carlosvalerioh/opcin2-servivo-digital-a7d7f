@@ -78,7 +78,7 @@ sections:
         media_width: fifty
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
+        content: >
           ## Lorem ipsum
 
 
@@ -86,9 +86,12 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
+
+
+          ![](/\_static/app-assets/images/graphext-export-2.png)
         actions: []
         image_alt: lorem-ipsum
         media_position: top
