@@ -80,9 +80,10 @@ sections:
 
           ***
 
-          *   Estrategia SEO para posicionamiento en buscadores.
-          *   Social 
+
+
           *   Social media listening
+          *   Estrategia SEO para posicionamiento en buscadores.
           *   Análisis de datos
           *   Desarrollo a la medida o implementación SaaS.
           *   Estrategía de Marketing Digital
