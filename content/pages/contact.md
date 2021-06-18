@@ -3,9 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Ponte en contacto
-    subtitle: >-
-      ¿Tengo una pregunta? Envíenos una nota utilizando el formulario a
-      continuación y nos pondremos en contacto pronto.
+    subtitle: '¿Tienes una pregunta? Envía un mensaje, nos pondremos en contacto pronto.'
     align: center
     padding_top: small
     padding_bottom: small
