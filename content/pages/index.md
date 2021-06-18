@@ -78,7 +78,7 @@ sections:
         media_width: fifty
       - title: Todo lo hacemos basado en datos
         content: |
-          Social media listening y Análisis de datos
+          Social media listening y análisis de datos
 
           ##### **PODER TOMAR DECISIONES EN TIEMPO REAL**
 
