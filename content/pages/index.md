@@ -40,7 +40,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: Construcción de eCommerce
+      - title: Construcción de eCommerce.
         content: >
           ###### Llevamos tu negocio de eCommerce al siguiente nivel
 
@@ -63,7 +63,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: Desarrollo de Tecnología a la medida
+      - title: Desarrollo de Tecnología a la medida.
         content: "Construcción de productos digitales sobre necesidades del negocio y sus clientes. Más que una App o una plataforma web genérica.\_[\n](https://servivo-digital-67ac4.netlify.app/pricing/)\n"
         actions:
           - label: VER MÁS
@@ -76,6 +76,23 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
+      - title: Todo lo hacemos con datos.
+        content: |
+          Social media listening y análisis de datos
+
+          ##### **PODER TOMAR DECISIONES EN TIEMPO REAL**
+
+          *   Reportes
+          *   Escucha y seguimiento social
+          *   Sinergia y construcción de estrategia basada en datos.
+
+          ![](/\_static/app-assets/images/graphext-export-2.png)
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
     feature_padding_vert: large
     align: center
     background_color: secondary
