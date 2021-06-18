@@ -7,9 +7,9 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "DIY",
+        "title": "Servivo Digital",
         "logo": "/images/logo-servivo-r copia copia-04 copia.png",
-        "logo_alt": "DIY logo",
+        "logo_alt": "Servivo Digital logo",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
@@ -39,13 +39,14 @@
     },
     "footer": {
         "logo": "/images/marvelous-robin.png",
-        "logo_alt": "DIY logo",
+        "logo_alt": "servivo digital logo",
+    
         "has_primary_nav": true,
         "primary_nav_title": "Servivo Digital",
         "primary_nav_links": [
             {
-                "label": "About",
-                "url": "/about",
+                "label": "Anillo Perif. 3720, Jardines del Pedregal, Álvaro Obregón, 01900 Ciudad de México, CDMX",
+                "url": "https://g.page/wework-artz-pedregal?share",
                 "style": "link"
             },
             {
@@ -116,7 +117,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Conoce todo lo que podemos hacer juntos. **Ver Más**\n",
+        "anncmnt_content": "Conoce todo lo que podemos hacer juntos. [**Ver Más**](https://servivo.digital/pricing/)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
