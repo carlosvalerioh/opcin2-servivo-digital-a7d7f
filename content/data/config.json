@@ -40,12 +40,11 @@
     "footer": {
         "logo": "/images/marvelous-robin.png",
         "logo_alt": "servivo digital logo",
-    
         "has_primary_nav": true,
         "primary_nav_title": "Servivo Digital",
         "primary_nav_links": [
             {
-                "label": "Anillo Perif. 3720, Jardines del Pedregal, Álvaro Obregón, 01900 Ciudad de México, CDMX",
+                "label": "Periférico Sur 3720 torre 2 Piso 9, Jardines del Pedregal, Alcaldía Álvaro Obregón, CP. 01900 Ciudad de México.",
                 "url": "https://g.page/wework-artz-pedregal?share",
                 "style": "link"
             },
