@@ -77,7 +77,6 @@ sections:
         media_position: right
         media_width: fifty
       - title: Todo lo hacemos con datos.
-        image: /images/graphext-export_term.png
         content: |
           Social media listening y análisis de datos
 
