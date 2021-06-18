@@ -86,9 +86,7 @@ sections:
           *   Escucha y seguimiento social
           *   Sinergia y construcción de estrategia basada en datos.
 
-
-
-          ![](/\_static/app-assets/images/graphext-export_term.png)
+        image: /images/graphext-export_term.png
         actions: []
         image_alt: lorem-ipsum
         media_position: top
