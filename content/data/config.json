@@ -54,26 +54,26 @@
                 "url": "/pricing ",
                 "style": "link"
             }
-        // ],
-        // "has_secondary_nav": true,
-        // "secondary_nav_title": "Blog",
-        // "secondary_nav_links": [
-        //     {
-        //         "label": "News",
-        //         "url": "/blog/category/news",
-        //         "style": "link"
-        //     },
-        //     {
-        //         "label": "General",
-        //         "url": "/blog/category/general",
-        //         "style": "link"
-        //     },
-        //     {
-        //         "label": "Tutorials",
-        //         "url": "/blog/category/tutorials",
-        //         "style": "link"
-        //     }
-        // ],
+        ],
+        "has_secondary_nav": true,
+        "secondary_nav_title": "Blog",
+        "secondary_nav_links": [
+            {
+                "label": "News",
+                "url": "/blog/category/news",
+                "style": "link"
+            },
+            {
+                "label": "General",
+                "url": "/blog/category/general",
+                "style": "link"
+            },
+            {
+                "label": "Tutorials",
+                "url": "/blog/category/tutorials",
+                "style": "link"
+            }
+        ],
         "has_tertiary_nav": true,
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
