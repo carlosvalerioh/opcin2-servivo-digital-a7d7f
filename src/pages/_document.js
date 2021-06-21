@@ -38,7 +38,6 @@ export default class MyDocument extends Document {
                 {this.helmetHeadComponents}
                 {/* Global Site Tag (gtag.js) - Google Analytics */}
                 <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}/>
-                <!-- Global site tag (gtag.js) - Google Analytics -->
                 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-199953511-1">
                 </script>
                 <script>
