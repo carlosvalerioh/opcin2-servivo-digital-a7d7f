@@ -34,6 +34,7 @@ export default class MyDocument extends Document {
         return (
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>
+                <meta name="google-site-verification" content="Vx_lESFtli-lf4dBEeoZIhJv5aMClv8kBBZAzrm1sVA" />
                 {this.helmetHeadComponents}
                 {/* Global Site Tag (gtag.js) - Google Analytics */}
                 <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}/>
