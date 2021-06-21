@@ -39,12 +39,12 @@ export default class MyDocument extends Document {
                 {/* Global Site Tag (gtag.js) - Google Analytics */}
                 <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}/>
                 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-199953511-1">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+                <script async src="https://www.googletagmanager.com/gtag/js?id=UA-199953511-1">
+                </script>
+                <script>
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
 
   gtag('config', 'UA-199953511-1');
   gtag('config', 'AW-347510295');
