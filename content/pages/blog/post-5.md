@@ -11,9 +11,8 @@ tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/netlify.yaml
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Para comenzar la Transformación Digital es fundamental entender el significado
+  de ser Digital en los negocios y las organizaciones.
 thumb_image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 thumb_image_alt: Post 5 placeholder image
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg

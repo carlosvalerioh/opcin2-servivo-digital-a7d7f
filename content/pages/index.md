@@ -189,18 +189,20 @@ sections:
           nuevo.
 
 
-          **Luis**  *CEO de los cachorros*
+          **Luis** 
+          *CEO de los cachorros* 
         image: /images/pink-steel.png
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
       - content: >
-          Estos chicos realmente están preocupados por crear valor para todos
-          nosotros sus aliados. Están comprometidos con la transformación
+          Estos chicos realmente están preocupados por crear valor para todos nosotros sus aliados. Están comprometidos con la transformación
           digital de Latinoamérica.
 
 
-          **Ricardo Herrera,** *CEO, Studio*
+
+          **Miles Tone,**   *CEO, Studio*
+
         image: /images/hanson-dxsceck.png
         image_alt: Miles Tone
         image_position: left
@@ -210,7 +212,9 @@ sections:
           Servivo Digital nos ayudaron a ser totalmente digitales.
 
 
-          **Alejandro y María**
+
+          **Alejandro y María** *Emprendedores*
+
         image: /images/festive-squid.png
         image_alt: Eleanor Carr
         image_position: left
@@ -268,7 +272,9 @@ sections:
         image: /images/120729463_351384429642322_4099580936422457335_n.jpg
         image_position: top
       - title: Sabrina Valerio
+
         subtitle: "Co-Founder &\_Chief\_\_Operations"
+
         title_align: center
         image: /images/32425386_124475878362076_3704449824406372352_n.jpg
         image_position: top
@@ -312,6 +318,10 @@ seo:
   title: Servivo Digital
   description: Comienza hoy mismo
   extra:
+    - name: 'author'
+      value: SerVivo Digital  
+    - name: 'theme-color'
+      value: #29CF7F
     - name: 'og:type'
       value: website
       keyName: property
@@ -333,6 +343,18 @@ seo:
       value: Comienza hoy mismo
     - name: 'twitter:image'
       value: images/diy-preview.png
+    - name: 'MobileOptimized'
+      value: width
+    - name: 'HandheldFriendly'
+      value: true
+    - name: 'apple-mobile-web-app-capable'
+      value: yes
+    - name: 'apple-mobile-web-app-status-bar-style'
+      value: black-translucent
       relativeUrl: true
 layout: advanced
 ---
+
+
+
+   
