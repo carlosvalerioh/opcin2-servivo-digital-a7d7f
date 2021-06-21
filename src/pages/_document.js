@@ -47,11 +47,11 @@ export default class MyDocument extends Document {
                     gtag('js', new Date());
 
                     gtag('config', 'UA-199953511-1');
-  gtag('config', 'AW-347510295');
-  gtag('config', 'AW-347510295/3BVCCKUFEJes2qUB', {
-    'phone_conversion_number': '5552134270'
-  });
-</script>
+                gtag('config', 'AW-347510295');
+                gtag('config', 'AW-347510295/3BVCCKUFEJes2qUB', {
+                    'phone_conversion_number': '5552134270'
+                });
+                </script>
                 <script
                         dangerouslySetInnerHTML={{
                         __html: `
