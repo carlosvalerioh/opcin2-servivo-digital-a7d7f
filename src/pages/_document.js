@@ -45,6 +45,11 @@ export default class MyDocument extends Document {
                         window.dataLayer = window.dataLayer || [];
                         function gtag(){dataLayer.push(arguments);}
                         gtag('js', new Date());
+                        gtag('config', 'UA-199953511-1');
+                        gtag('config', 'AW-347510295');
+                        gtag('config', 'AW-347510295/3BVCCKUFEJes2qUB', {
+                            'phone_conversion_number': '5552134270'
+                        });
                         gtag('config', '${GA_TRACKING_ID}', {
                         page_path: window.location.pathname,
                         });
