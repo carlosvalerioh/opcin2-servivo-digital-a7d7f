@@ -51,9 +51,6 @@ export default class MyDocument extends Document {
                     `,
                         }}
                 />
-                <script>
-                    
-                </script>
                 </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
