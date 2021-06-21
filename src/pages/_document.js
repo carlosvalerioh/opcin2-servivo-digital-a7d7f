@@ -61,7 +61,7 @@ export default class MyDocument extends Document {
                     gtag('config', 'AW-347510295/3BVCCKUFEJes2qUB', {
                         'phone_conversion_number': '5552134270'
                     });
-</script>
+                </script>
                 </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
