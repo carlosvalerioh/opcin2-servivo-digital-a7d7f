@@ -37,6 +37,7 @@ export default class MyDocument extends Document {
                 <meta name="google-site-verification" content="Vx_lESFtli-lf4dBEeoZIhJv5aMClv8kBBZAzrm1sVA" />
                 {this.helmetHeadComponents}
                 {/* Global Site Tag (gtag.js) - Google Analytics */}
+                <script async src="https://www.googletagmanager.com/gtag/js?id=UA-199953511-1"></script>
                 <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}/>
                 <script
                         dangerouslySetInnerHTML={{
@@ -44,11 +45,17 @@ export default class MyDocument extends Document {
                         window.dataLayer = window.dataLayer || [];
                         function gtag(){dataLayer.push(arguments);}
                         gtag('js', new Date());
+                        gtag('config', 'UA-199953511-1');
+                        gtag('config', 'AW-347510295');
+                        gtag('config', 'AW-347510295/3BVCCKUFEJes2qUB', {
+                            'phone_conversion_number': '5552134270'
+                        });
                         gtag('config', '${GA_TRACKING_ID}', {
                         page_path: window.location.pathname,
                         });
                     `,
                         }}
+                        
                 />
                 </Head>
                 <body {...this.helmetBodyAttrComponents}>
