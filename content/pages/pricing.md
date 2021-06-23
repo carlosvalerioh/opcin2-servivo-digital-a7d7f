@@ -80,10 +80,9 @@ sections:
 
           ***
 
-
-
           *   Social media listening
           *   Estrategia SEO para posicionamiento en buscadores.
+          *   Correos corporativos ilimitados 
           *   Análisis de datos
           *   Desarrollo a la medida o implementación SaaS.
           *   Estrategía de Marketing Digital
