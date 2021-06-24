@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Llevamos tu negocio al siguiente nivel.
-    subtitle: Vamos a -----
+    subtitle: Comienza hoy mismo y construyamos una relación a largo.
     content: >
       Te acompañamos en el proceso de transformación digital con más de 10 años
       de experiencia creando tecnología y construyendo Negocios Digitales[
