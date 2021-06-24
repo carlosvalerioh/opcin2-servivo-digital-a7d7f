@@ -2,8 +2,8 @@
 title: Home
 sections:
   - type: hero_section
-    title: Somos expertos en construcción de negocios digitales.
-    subtitle: Powered by Service
+    title: Llevamos tu negocio al siguiente nivel.
+    subtitle: Construyamos una relación a largo plazo.
     content: >
       Te acompañamos en el proceso de transformación digital con más de 10 años
       de experiencia creando tecnología y construyendo Negocios Digitales[
