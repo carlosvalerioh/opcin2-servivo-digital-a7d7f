@@ -301,7 +301,7 @@ sections:
       La Transformación Digital en el 2021 ya no es un lujo, es una necesidad. 
     actions:
       - label: AGENDA UNA LLAMADA
-        url: /pricing
+        url: 'https://calendly.com/servivo-digital/60min?month=2021-06'
         style: primary
     actions_position: bottom
     align: center
