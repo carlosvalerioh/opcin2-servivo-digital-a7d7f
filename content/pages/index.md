@@ -5,13 +5,14 @@ sections:
     title: Llevamos tu negocio al siguiente nivel.
     subtitle: Construyamos una relación a largo plazo.
     content: >
-      Te acompañamos en el proceso de transformación digital con más de 10 años
-      de experiencia creando tecnología y construyendo Negocios Digitales[
+      Te acompañamos en el proceso de creación y transformación digital con más
+      de 10 años de experiencia creando tecnología y construyendo Negocios
+      Digitales[
 
       ](https://wa.me/+525619878301)
     actions:
-      - label: CONTÁCTANOS
-        url: '/contact '
+      - label: AGENDA UNA LLAMADA
+        url: 'https://calendly.com/servivo-digital/60min'
         style: primary
       - label: VER MÁS
         url: /pricing
@@ -299,8 +300,8 @@ sections:
     content: |
       La Transformación Digital en el 2021 ya no es un lujo, es una necesidad. 
     actions:
-      - label: Comienza hoy mismo
-        url: /pricing
+      - label: AGENDA UNA LLAMADA
+        url: 'https://calendly.com/servivo-digital/60min?month=2021-06'
         style: primary
     actions_position: bottom
     align: center

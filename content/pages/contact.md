@@ -57,7 +57,7 @@ sections:
         content_align: center
         actions:
           - label: Obtener Asesoría Gratis
-            url: 'https://wa.me/+525619878301'
+            url: 'https://calendly.com/servivo-digital/60min?month=2021-06'
             style: primary
             has_icon: true
             icon: arrow-right
