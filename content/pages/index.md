@@ -10,7 +10,7 @@ sections:
 
       ](https://wa.me/+525619878301)
     actions:
-      - label: CONTÁCTANOS
+      - label: Agenda una llamada
         url: '/contact '
         style: primary
       - label: VER MÁS
