@@ -11,7 +11,7 @@ sections:
       ](https://wa.me/+525619878301)
     actions:
       - label: Agenda una llamada
-        url: '/contact '
+        url: 'https://calendly.com/servivo-digital/60min'
         style: primary
       - label: VER MÁS
         url: /pricing
