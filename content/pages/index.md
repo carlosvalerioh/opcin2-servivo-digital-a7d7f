@@ -3,15 +3,12 @@ title: Home
 sections:
   - type: hero_section
     title: Llevamos tu negocio al siguiente nivel.
-    subtitle: Construyamos una relación a largo plazo.
+    subtitle: Obtén el ROI de la inversión de nuestros servicios en menos de 3 meses.
     content: >
-      Te acompañamos en el proceso de creación y transformación digital con más
-      de 10 años de experiencia creando tecnología y construyendo Negocios
-      Digitales[
-
-      ](https://wa.me/+525619878301)
+      Construyamos una relación a largo plazo. Te acompañamos en el proceso de
+      creación y transformación digital.
     actions:
-      - label: AGENDA UNA LLAMADA
+      - label: AGENDA UNA REUNIÓN
         url: 'https://calendly.com/servivo-digital/60min'
         style: primary
       - label: VER MÁS
