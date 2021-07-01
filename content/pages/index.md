@@ -5,9 +5,11 @@ sections:
     title: Llevamos tu negocio al siguiente nivel.
     subtitle: Construyamos una relación a largo plazo.
     content: >
-      Te acompañamos en el proceso de creación y transformación digital con más
-      de 10 años de experiencia creando tecnología y construyendo Negocios
-      Digitales[
+      Te acompañamos en el proceso de creación y transformación digital.
+
+
+      **Obtén el ROI de la inversión de nuestros servicios en menos de 3
+      meses**[
 
       ](https://wa.me/+525619878301)
     actions:
