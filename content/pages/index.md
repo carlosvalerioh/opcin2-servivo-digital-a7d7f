@@ -10,7 +10,7 @@ sections:
 
       ](https://wa.me/+525619878301)
     actions:
-      - label: AGENDA UNA LLAMADA
+      - label: AGENDA UNA REUNIÓN
         url: 'https://calendly.com/servivo-digital/60min'
         style: primary
       - label: VER MÁS
