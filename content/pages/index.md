@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Llevamos tu negocio al siguiente nivel.
-    subtitle: Obtén el ROI de la inversión de nuestros servicios en menos de 3 meses
+    subtitle: Obtén el ROI de la inversión de nuestros servicios en menos de 3 meses.
     content: >
       Te acompañamos en el proceso de creación y transformación digital. **Obtén
       el ROI de la inversión de nuestros servicios en menos de 3 meses**[
