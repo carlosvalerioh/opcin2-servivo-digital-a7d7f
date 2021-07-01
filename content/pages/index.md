@@ -96,7 +96,7 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Hemos construido ecommerce desde cero que han facturado hasta
+          “Hemos construido eCommerce desde cero que han facturado hasta
           $500,000 dólares”.
         subtitle: "Sabrina Valerio, Chief Operations\_at Company"
         image: /images/32425386_124475878362076_3704449824406372352_n.jpg
@@ -105,10 +105,10 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
-    title: Lo hacemos posible con Ecommerce
+    title: Lo hacemos posible con eCommerce
   - type: grid_section
     title: Sé parte del crecimiento
-    subtitle: Reporte de crecimiento del Ecommerce en LATAM
+    subtitle: Reporte de crecimiento del eCommerce en LATAM
     grid_items:
       - title_align: left
         content: >
