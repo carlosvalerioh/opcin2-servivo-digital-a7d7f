@@ -105,7 +105,7 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
-    title: Lo hacemos posible con Ecommerce
+    title: Lo hacemos posible con eCommerce
   - type: grid_section
     title: Sé parte del crecimiento
     subtitle: Reporte de crecimiento del Ecommerce en LATAM
