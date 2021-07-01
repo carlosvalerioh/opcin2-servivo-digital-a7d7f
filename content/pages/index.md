@@ -5,8 +5,8 @@ sections:
     title: Llevamos tu negocio al siguiente nivel.
     subtitle: Obtén el ROI de la inversión de nuestros servicios en menos de 3 meses.
     content: >
-      Construyamos una relación a largo plazo. Te acompañamos en el proceso de
-      creación y transformación digital.
+      Construyamos una relación a largo plazo. Aceleramos tu proceso de
+      transformación digital.
     actions:
       - label: AGENDA UNA REUNIÓN
         url: 'https://calendly.com/servivo-digital/60min'
