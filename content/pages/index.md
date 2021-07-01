@@ -108,7 +108,7 @@ sections:
     title: Lo hacemos posible con eCommerce
   - type: grid_section
     title: Sé parte del crecimiento
-    subtitle: Reporte de crecimiento del Ecommerce en LATAM
+    subtitle: Reporte de crecimiento del eCommerce en LATAM
     grid_items:
       - title_align: left
         content: >
