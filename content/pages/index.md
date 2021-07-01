@@ -5,7 +5,7 @@ sections:
     title: Llevamos tu negocio al siguiente nivel.
     subtitle: Obtén el ROI de la inversión de nuestros servicios en menos de 3 meses.
     content: >
-      Construyamos una relación a largo plazo y aceleramos tu proceso de
+      Construyamos una relación a largo plazo y aceleremos tu proceso de
       transformación digital.
     actions:
       - label: AGENDA UNA REUNIÓN
