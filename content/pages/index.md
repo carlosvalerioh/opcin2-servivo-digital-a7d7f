@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Llevamos tu negocio al siguiente nivel.
+    title: Marketing Digital que genera Negocio
     subtitle: Obtén el ROI de la inversión de nuestros servicios en menos de 3 meses.
     content: |
       Aceleremos tu proceso de transformación digital.
