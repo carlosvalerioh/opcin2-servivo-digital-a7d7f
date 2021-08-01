@@ -7,7 +7,7 @@ sections:
     content: |
       Aceleremos tu proceso de transformación digital.
     actions:
-      - label: Reserva tu consultoría gratuita
+      - label: Reserva tu consultoría Gratuita
         url: 'https://calendly.com/d/wnys-hd9t/consultoria-gratis'
         style: primary
       - label: VER MÁS
