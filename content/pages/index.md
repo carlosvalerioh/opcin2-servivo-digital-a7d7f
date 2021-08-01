@@ -91,7 +91,7 @@ sections:
     align: center
     background_color: secondary
     subtitle: >-
-      iseñamos estrategias personalizadas de presencia digital, atracción de
+      Diseñamos estrategias personalizadas de presencia digital, atracción de
       tráfico cualificado y conversión, que sí benefician tu cuenta de
       resultados.
   - type: features_section
