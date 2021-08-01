@@ -7,7 +7,7 @@ sections:
     content: |
       Aceleremos tu proceso de transformación digital.
     actions:
-      - label: AGENDA UNA REUNIÓN
+      - label: Reserva tu consultoría gratuita
         url: 'https://calendly.com/servivo-digital/60min'
         style: primary
       - label: VER MÁS
