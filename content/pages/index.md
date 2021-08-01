@@ -2,14 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Llevamos tu negocio al siguiente nivel.
-    subtitle: Obtén el ROI de la inversión de nuestros servicios en menos de 3 meses.
-    content: >
-      Construyamos una relación a largo plazo. Te acompañamos en el proceso de
-      creación y transformación digital.
+    title: Marketing Digital que genera Negocio
+    subtitle: Generamos negocio para nuestros clientes en todo el mundo.
     actions:
-      - label: AGENDA UNA REUNIÓN
-        url: 'https://calendly.com/servivo-digital/60min'
+      - label: Reserva tu consultoría Gratuita
+        url: 'https://calendly.com/d/wnys-hd9t/consultoria-gratis'
         style: primary
       - label: VER MÁS
         url: /pricing
