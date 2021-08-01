@@ -8,7 +8,7 @@ sections:
       Aceleremos tu proceso de transformación digital.
     actions:
       - label: Reserva tu consultoría gratuita
-        url: 'https://calendly.com/servivo-digital/60min'
+        url: 'https://calendly.com/d/wnys-hd9t/consultoria-gratis'
         style: primary
       - label: VER MÁS
         url: /pricing
