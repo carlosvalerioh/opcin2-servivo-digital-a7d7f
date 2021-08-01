@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Marketing Digital que genera Negocio
-    subtitle: Generamos negocio para nuestros clientes en todo el mundo
+    subtitle: Generamos negocio para nuestros clientes en todo el mundo.
     actions:
       - label: Reserva tu consultoría Gratuita
         url: 'https://calendly.com/d/wnys-hd9t/consultoria-gratis'
