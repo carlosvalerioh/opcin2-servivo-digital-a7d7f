@@ -22,7 +22,7 @@ sections:
   - type: features_section
     title: Fórmula personalizada para hacer crecer tu negocio en internet
     features:
-      - title: Creación de estrategias y modelos de negocios digitales.
+      - title: 'SEO y Marketing Digital con datos, diseñado para dar resultados'
         content: "Plantearemos un modelo de acuerdo con la realidad actual y las necesidades de tu negocio, permitiendo flexibilidad, eficiencia e innovación.\_[\n](https://servivo-digital-67ac4.netlify.app/pricing/)\n"
         actions:
           - label: VER MÁS
