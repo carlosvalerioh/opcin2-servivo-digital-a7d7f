@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Marketing Digital que genera Negocio
-    subtitle: Obtén el ROI de la inversión de nuestros servicios en menos de 3 meses.
+    subtitle: Generamos negocio para nuestros clientes en todo el mundo
     content: |
       Aceleremos tu proceso de transformación digital.
     actions:
