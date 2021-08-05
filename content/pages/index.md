@@ -6,7 +6,7 @@ sections:
     subtitle: Generamos negocio para nuestros clientes en todo el mundo.
     actions:
       - label: Reserva tu consultoría Gratuita
-        url: 'https://calendly.com/d/wnys-hd9t/consultoria-gratis'
+        url: 'https://calendly.com/servivo-digital/30min'
         style: primary
       - label: VER MÁS
         url: /pricing
